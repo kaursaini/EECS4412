@@ -1,0 +1,3990 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.NaiveBayes 
+Relation:     final_train
+Instances:    40000
+Attributes:   658
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                  Class
+Attribute      negative positive  neutral
+                 (0.27)   (0.56)   (0.17)
+==========================================
+abl
+  mean            0.0507   0.0811   0.0746
+  std. dev.       0.4258   0.5375   0.5149
+  weight sum       10806    22341     6853
+  precision       1.8136   1.8136   1.8136
+
+absolut
+  mean            0.0495   0.0636   0.0252
+  std. dev.       0.3466   0.3723   0.3466
+  weight sum       10806    22341     6853
+  precision       2.0793   2.0793   2.0793
+
+actual
+  mean            0.1322   0.1069   0.1591
+  std. dev.       0.6111   0.5515   0.6679
+  weight sum       10806    22341     6853
+  precision       1.4696   1.4696   1.4696
+
+ago
+  mean            0.0513   0.0393   0.0299
+  std. dev.       0.3205   0.3077   0.3077
+  weight sum       10806    22341     6853
+  precision       1.8463   1.8463   1.8463
+
+airport
+  mean            0.0536   0.0282   0.0436
+  std. dev.        0.516   0.3831   0.4856
+  weight sum       10806    22341     6853
+  precision       2.0758   2.0758   2.0758
+
+alreadi
+  mean            0.0891   0.0584   0.0617
+  std. dev.       0.5859   0.4745   0.4877
+  weight sum       10806    22341     6853
+  precision       1.9579   1.9579   1.9579
+
+alwai
+  mean            0.0681   0.2015   0.1307
+  std. dev.       0.3536   0.6257   0.5015
+  weight sum       10806    22341     6853
+  precision       0.7873   0.7873   0.7873
+
+ani
+  mean            0.1857   0.1359   0.1562
+  std. dev.       0.6319   0.5402   0.5762
+  weight sum       10806    22341     6853
+  precision       1.0836   1.0836   1.0836
+
+anoth
+  mean            0.1205   0.0532   0.0869
+  std. dev.       0.4346   0.2808   0.3565
+  weight sum       10806    22341     6853
+  precision       1.3666   1.3666   1.3666
+
+answer
+  mean            0.0486   0.0247   0.0162
+  std. dev.       0.4112   0.4112   0.4112
+  weight sum       10806    22341     6853
+  precision       2.4672   2.4672   2.4672
+
+anyon
+  mean            0.0624   0.0441    0.026
+  std. dev.       0.3793    0.366    0.366
+  weight sum       10806    22341     6853
+  precision       2.1962   2.1962   2.1962
+
+anyth
+  mean            0.1262   0.0813   0.1076
+  std. dev.       0.5813    0.468   0.5394
+  weight sum       10806    22341     6853
+  precision       1.3432   1.3432   1.3432
+
+appet
+  mean             0.052   0.0815   0.1049
+  std. dev.       0.4273   0.5306   0.6006
+  weight sum       10806    22341     6853
+  precision       1.7658   1.7658   1.7658
+
+appoint
+  mean            0.0671   0.0423   0.0198
+  std. dev.       0.5233   0.3873   0.2876
+  weight sum       10806    22341     6853
+  precision       1.5979   1.5979   1.5979
+
+ar
+  mean             0.246   0.3001   0.3173
+  std. dev.       0.4576   0.5047   0.5159
+  weight sum       10806    22341     6853
+  precision       0.3618   0.3618   0.3618
+
+area
+  mean            0.0773   0.1314   0.1622
+  std. dev.       0.4109   0.5333   0.5887
+  weight sum       10806    22341     6853
+  precision       1.0389   1.0389   1.0389
+
+arriv
+  mean            0.1005   0.0644   0.0949
+  std. dev.       0.5646   0.4449   0.5449
+  weight sum       10806    22341     6853
+  precision       1.4779   1.4779   1.4779
+
+ask
+  mean            0.3036   0.1281   0.1712
+  std. dev.       0.7938   0.5186   0.6057
+  weight sum       10806    22341     6853
+  precision       1.0422   1.0422   1.0422
+
+atmospher
+  mean            0.0238   0.0796   0.0702
+  std. dev.       0.2459   0.3451   0.3308
+  weight sum       10806    22341     6853
+  precision       1.4755   1.4755   1.4755
+
+attent
+  mean            0.0282   0.0602   0.0631
+  std. dev.       0.2649   0.3094   0.3196
+  weight sum       10806    22341     6853
+  precision       1.5891   1.5891   1.5891
+
+attitud
+  mean            0.0617   0.0124   0.0195
+  std. dev.       0.4632   0.4632   0.4632
+  weight sum       10806    22341     6853
+  precision       2.7792   2.7792   2.7792
+
+avail
+  mean            0.0517   0.0527   0.0667
+  std. dev.        0.423   0.4232   0.4727
+  weight sum       10806    22341     6853
+  precision       1.6626   1.6626   1.6626
+
+averag
+  mean            0.0743   0.0409   0.1766
+  std. dev.       0.4913   0.3554   0.7323
+  weight sum       10806    22341     6853
+  precision       1.4597   1.4597   1.4597
+
+avoid
+  mean            0.0896   0.0216   0.0443
+  std. dev.       0.6237   0.3355   0.4265
+  weight sum       10806    22341     6853
+  precision       2.0127   2.0127   2.0127
+
+aw
+  mean            0.0848   0.0097   0.0244
+  std. dev.       0.6112   0.3527   0.3527
+  weight sum       10806    22341     6853
+  precision        2.116    2.116    2.116
+
+awai
+  mean            0.1342   0.0933   0.0965
+  std. dev.       0.5898   0.4933   0.5019
+  weight sum       10806    22341     6853
+  precision       1.3038   1.3038   1.3038
+
+bacon
+  mean            0.0357   0.0544   0.0679
+  std. dev.       0.3489   0.4212   0.4908
+  weight sum       10806    22341     6853
+  precision       1.2026   1.2026   1.2026
+
+bad
+  mean             0.203   0.0785    0.199
+  std. dev.       0.6448   0.3966   0.6173
+  weight sum       10806    22341     6853
+  precision       0.9887   0.9887   0.9887
+
+bag
+  mean            0.0606    0.036   0.0464
+  std. dev.       0.5338   0.4082   0.4514
+  weight sum       10806    22341     6853
+  precision       2.0139   2.0139   2.0139
+
+bar
+  mean            0.0976    0.132   0.1667
+  std. dev.        0.452   0.5082   0.5817
+  weight sum       10806    22341     6853
+  precision       0.8573   0.8573   0.8573
+
+bare
+  mean            0.0517   0.0124   0.0334
+  std. dev.       0.4957   0.4957   0.4957
+  weight sum       10806    22341     6853
+  precision       2.9744   2.9744   2.9744
+
+bartend
+  mean            0.0643    0.053   0.0573
+  std. dev.       0.5047   0.4232   0.4515
+  weight sum       10806    22341     6853
+  precision       1.6021   1.6021   1.6021
+
+basic
+  mean            0.0935   0.0474   0.1012
+  std. dev.        0.625   0.4468   0.6485
+  weight sum       10806    22341     6853
+  precision        2.128    2.128    2.128
+
+bean
+  mean            0.0387   0.0533   0.0742
+  std. dev.       0.3638   0.4179   0.5033
+  weight sum       10806    22341     6853
+  precision       1.4735   1.4735   1.4735
+
+becaus
+  mean             0.241   0.1724   0.2465
+  std. dev.       0.5897   0.5056   0.6005
+  weight sum       10806    22341     6853
+  precision       0.7413   0.7413   0.7413
+
+beef
+  mean            0.0778   0.1057   0.1582
+  std. dev.       0.5033   0.5667   0.6996
+  weight sum       10806    22341     6853
+  precision       0.9206   0.9206   0.9206
+
+beer
+  mean            0.0761   0.1178   0.1395
+  std. dev.       0.4587   0.5724    0.627
+  weight sum       10806    22341     6853
+  precision       0.9225   0.9225   0.9225
+
+befor
+  mean            0.1936   0.1275   0.1673
+  std. dev.       0.6456   0.5243   0.5973
+  weight sum       10806    22341     6853
+  precision       1.0867   1.0867   1.0867
+
+believ
+  mean            0.0634   0.0586   0.0623
+  std. dev.       0.5052   0.4849   0.4997
+  weight sum       10806    22341     6853
+  precision       2.0343   2.0343   2.0343
+
+best
+  mean            0.0766   0.2611   0.1571
+  std. dev.         0.35   0.6278   0.4937
+  weight sum       10806    22341     6853
+  precision        0.795    0.795    0.795
+
+better
+  mean            0.2175   0.1477   0.2685
+  std. dev.       0.6349   0.5254   0.6926
+  weight sum       10806    22341     6853
+  precision       0.9534   0.9534   0.9534
+
+big
+  mean            0.0694   0.1152   0.1521
+  std. dev.       0.3972   0.5086   0.5826
+  weight sum       10806    22341     6853
+  precision       1.0925   1.0925   1.0925
+
+bit
+  mean            0.0681   0.1408   0.2752
+  std. dev.       0.3962   0.5684   0.7782
+  weight sum       10806    22341     6853
+  precision       1.1292   1.1292   1.1292
+
+bland
+  mean            0.1152   0.0197   0.1077
+  std. dev.        0.671   0.3271   0.6412
+  weight sum       10806    22341     6853
+  precision       1.9629   1.9629   1.9629
+
+book
+  mean            0.0417     0.05   0.0381
+  std. dev.       0.3719   0.3942   0.3562
+  weight sum       10806    22341     6853
+  precision       1.4122   1.4122   1.4122
+
+bother
+  mean            0.0452   0.0107   0.0227
+  std. dev.       0.5084   0.5084   0.5084
+  weight sum       10806    22341     6853
+  precision       3.0504   3.0504   3.0504
+
+bottl
+  mean            0.0528   0.0584   0.0578
+  std. dev.       0.4554   0.4764    0.476
+  weight sum       10806    22341     6853
+  precision       1.9603   1.9603   1.9603
+
+bought
+  mean            0.0653   0.0477   0.0394
+  std. dev.       0.5558   0.4698   0.4292
+  weight sum       10806    22341     6853
+  precision       2.2476   2.2476   2.2476
+
+bowl
+  mean            0.0514    0.061   0.0832
+  std. dev.       0.4229   0.4576   0.5448
+  weight sum       10806    22341     6853
+  precision        1.226    1.226    1.226
+
+box
+  mean            0.0512   0.0381   0.0593
+  std. dev.        0.474   0.3763   0.5037
+  weight sum       10806    22341     6853
+  precision       1.5006   1.5006   1.5006
+
+bread
+  mean            0.0651   0.0805    0.087
+  std. dev.       0.4125   0.4556   0.4743
+  weight sum       10806    22341     6853
+  precision       1.1277   1.1277   1.1277
+
+breakfast
+  mean            0.0653   0.1059   0.1415
+  std. dev.       0.4514   0.5772     0.69
+  weight sum       10806    22341     6853
+  precision        0.946    0.946    0.946
+
+bring
+  mean            0.0717    0.074    0.069
+  std. dev.       0.4396   0.4413   0.4235
+  weight sum       10806    22341     6853
+  precision        1.292    1.292    1.292
+
+brought
+  mean            0.0521   0.0322   0.0346
+  std. dev.       0.3366   0.3039   0.3039
+  weight sum       10806    22341     6853
+  precision       1.8236   1.8236   1.8236
+
+buck
+  mean            0.0692   0.0513   0.0702
+  std. dev.       0.5155   0.4439   0.5177
+  weight sum       10806    22341     6853
+  precision       1.9323   1.9323   1.9323
+
+buffet
+  mean            0.0533   0.0613   0.1056
+  std. dev.       0.4323   0.4934    0.651
+  weight sum       10806    22341     6853
+  precision       1.1733   1.1733   1.1733
+
+bui
+  mean            0.0825   0.0569   0.0569
+  std. dev.       0.5018   0.4099   0.4068
+  weight sum       10806    22341     6853
+  precision       1.3722   1.3722   1.3722
+
+burger
+  mean            0.1235   0.1322   0.1765
+  std. dev.       0.6434   0.6742   0.7733
+  weight sum       10806    22341     6853
+  precision       0.7498   0.7498   0.7498
+
+burrito
+  mean            0.0452   0.0368   0.0416
+  std. dev.       0.4333   0.3736   0.3997
+  weight sum       10806    22341     6853
+  precision       1.4044   1.4044   1.4044
+
+busi
+  mean            0.1909    0.116   0.1364
+  std. dev.        0.613    0.478   0.5159
+  weight sum       10806    22341     6853
+  precision       0.9618   0.9618   0.9618
+
+ca
+  mean            0.1197   0.1535   0.1229
+  std. dev.       0.5228   0.5824   0.5275
+  weight sum       10806    22341     6853
+  precision       1.1362   1.1362   1.1362
+
+came
+  mean            0.1904   0.1393   0.2182
+  std. dev.        0.591   0.4954   0.6193
+  weight sum       10806    22341     6853
+  precision       0.8689   0.8689   0.8689
+
+cancel
+  mean            0.0513    0.005   0.0062
+  std. dev.       0.4875   0.3101   0.3101
+  weight sum       10806    22341     6853
+  precision       1.8606   1.8606   1.8606
+
+car
+  mean            0.1659    0.086   0.0453
+  std. dev.       0.7782   0.5514   0.3997
+  weight sum       10806    22341     6853
+  precision       0.9378   0.9378   0.9378
+
+card
+  mean            0.0766   0.0393   0.0449
+  std. dev.       0.5044   0.3442   0.3638
+  weight sum       10806    22341     6853
+  precision       1.3422   1.3422   1.3422
+
+care
+  mean            0.1129   0.0971   0.0556
+  std. dev.       0.5236   0.4919   0.3661
+  weight sum       10806    22341     6853
+  precision       1.1728   1.1728   1.1728
+
+cash
+  mean            0.0623   0.0427   0.0652
+  std. dev.       0.5634   0.4604   0.5733
+  weight sum       10806    22341     6853
+  precision         2.29     2.29     2.29
+
+cashier
+  mean            0.0882   0.0305    0.058
+  std. dev.       0.6593   0.4116   0.5347
+  weight sum       10806    22341     6853
+  precision       2.4696   2.4696   2.4696
+
+caus
+  mean            0.0622   0.0325   0.0484
+  std. dev.       0.5478    0.394   0.4871
+  weight sum       10806    22341     6853
+  precision       2.2725   2.2725   2.2725
+
+chang
+  mean            0.1129   0.0624   0.0681
+  std. dev.       0.5285   0.3872   0.4067
+  weight sum       10806    22341     6853
+  precision       1.1158   1.1158   1.1158
+
+charg
+  mean            0.1784   0.0352   0.0781
+  std. dev.       0.7124   0.3008    0.456
+  weight sum       10806    22341     6853
+  precision       1.2141   1.2141   1.2141
+
+cheap
+  mean            0.0609   0.0816   0.1146
+  std. dev.       0.4314   0.4919   0.5807
+  weight sum       10806    22341     6853
+  precision       1.4518   1.4518   1.4518
+
+check
+  mean            0.1465   0.1249   0.1444
+  std. dev.       0.5925   0.5357   0.5787
+  weight sum       10806    22341     6853
+  precision       1.1118   1.1118   1.1118
+
+chees
+  mean            0.0952   0.1146   0.1245
+  std. dev.       0.4806   0.5162    0.547
+  weight sum       10806    22341     6853
+  precision       0.8482   0.8482   0.8482
+
+chicken
+  mean            0.1483   0.1761   0.2639
+  std. dev.       0.5729   0.6075   0.7518
+  weight sum       10806    22341     6853
+  precision       0.6352   0.6352   0.6352
+
+chines
+  mean            0.0424   0.0516   0.0974
+  std. dev.        0.418   0.4519   0.6114
+  weight sum       10806    22341     6853
+  precision       1.6312   1.6312   1.6312
+
+chip
+  mean            0.0597    0.057   0.0867
+  std. dev.       0.4374   0.4192   0.5181
+  weight sum       10806    22341     6853
+  precision       1.3913   1.3913   1.3913
+
+choic
+  mean            0.0531   0.0859    0.122
+  std. dev.       0.3964   0.5038   0.5977
+  weight sum       10806    22341     6853
+  precision       1.4412   1.4412   1.4412
+
+clean
+  mean            0.0942   0.1496   0.1303
+  std. dev.       0.4661   0.5565   0.5204
+  weight sum       10806    22341     6853
+  precision       1.0036   1.0036   1.0036
+
+close
+  mean            0.1164   0.0806   0.1167
+  std. dev.       0.5401   0.4397   0.5277
+  weight sum       10806    22341     6853
+  precision       1.1603   1.1603   1.1603
+
+club
+  mean             0.038   0.0463   0.0599
+  std. dev.       0.3573   0.3877   0.4534
+  weight sum       10806    22341     6853
+  precision       1.3156   1.3156   1.3156
+
+coffe
+  mean            0.0696   0.0918   0.1146
+  std. dev.       0.4738   0.5496   0.6009
+  weight sum       10806    22341     6853
+  precision       1.0248   1.0248   1.0248
+
+cold
+  mean             0.135   0.0486   0.1005
+  std. dev.       0.6495   0.3807   0.5412
+  weight sum       10806    22341     6853
+  precision       1.4082   1.4082   1.4082
+
+come
+  mean            0.2127   0.2426   0.2726
+  std. dev.       0.5481   0.5788   0.6068
+  weight sum       10806    22341     6853
+  precision       0.7313   0.7313   0.7313
+
+compani
+  mean            0.1338   0.0531   0.0282
+  std. dev.       0.7197   0.4392   0.3135
+  weight sum       10806    22341     6853
+  precision       1.1061   1.1061   1.1061
+
+complain
+  mean            0.0542   0.0245   0.0318
+  std. dev.       0.4907   0.4907   0.4907
+  weight sum       10806    22341     6853
+  precision       2.9444   2.9444   2.9444
+
+complet
+  mean            0.1285   0.0569   0.0485
+  std. dev.       0.6683   0.4472   0.4132
+  weight sum       10806    22341     6853
+  precision       1.7855   1.7855   1.7855
+
+consid
+  mean            0.0419   0.0337    0.069
+  std. dev.       0.4357   0.4357   0.4357
+  weight sum       10806    22341     6853
+  precision       2.6141   2.6141   2.6141
+
+contact
+  mean            0.0672   0.0216   0.0193
+  std. dev.       0.5343   0.3244   0.3244
+  weight sum       10806    22341     6853
+  precision       1.9465   1.9465   1.9465
+
+cook
+  mean            0.0962   0.0927    0.116
+  std. dev.       0.4966   0.4733   0.5272
+  weight sum       10806    22341     6853
+  precision       1.1573   1.1573   1.1573
+
+cool
+  mean            0.0462   0.0985   0.1037
+  std. dev.       0.3691   0.5376   0.5558
+  weight sum       10806    22341     6853
+  precision       1.4301   1.4301   1.4301
+
+cost
+  mean            0.1224   0.0464   0.0822
+  std. dev.       0.6943   0.4299   0.5679
+  weight sum       10806    22341     6853
+  precision       1.9916   1.9916   1.9916
+
+counter
+  mean             0.096   0.0384   0.0693
+  std. dev.       0.6174   0.3844    0.509
+  weight sum       10806    22341     6853
+  precision       1.8001   1.8001   1.8001
+
+coupl
+  mean            0.0757   0.0887   0.1145
+  std. dev.       0.4985   0.5375   0.6094
+  weight sum       10806    22341     6853
+  precision       1.6734   1.6734   1.6734
+
+cours
+  mean            0.0429   0.0662   0.0588
+  std. dev.       0.3614   0.4448   0.4135
+  weight sum       10806    22341     6853
+  precision       1.3519   1.3519   1.3519
+
+cover
+  mean            0.0639   0.0448    0.062
+  std. dev.       0.4871   0.4056   0.4781
+  weight sum       10806    22341     6853
+  precision       1.7486   1.7486   1.7486
+
+cream
+  mean            0.0606   0.0972   0.1117
+  std. dev.        0.466   0.5808   0.6402
+  weight sum       10806    22341     6853
+  precision        0.999    0.999    0.999
+
+credit
+  mean             0.087   0.0282   0.0408
+  std. dev.       0.6449   0.3553    0.422
+  weight sum       10806    22341     6853
+  precision       2.1318   2.1318   2.1318
+
+cup
+  mean            0.0678   0.0398   0.0721
+  std. dev.       0.5162   0.3846   0.5124
+  weight sum       10806    22341     6853
+  precision       1.6575   1.6575   1.6575
+
+custom
+  mean            0.2498   0.1229   0.0974
+  std. dev.       0.7011     0.49   0.4425
+  weight sum       10806    22341     6853
+  precision       0.9295   0.9295   0.9295
+
+cut
+  mean            0.0729   0.0672   0.0657
+  std. dev.       0.4817   0.4574   0.4461
+  weight sum       10806    22341     6853
+  precision       1.3891   1.3891   1.3891
+
+dai
+  mean            0.1695   0.1702   0.1465
+  std. dev.        0.558   0.5485   0.5097
+  weight sum       10806    22341     6853
+  precision       0.8695   0.8695   0.8695
+
+deal
+  mean            0.0729   0.0994   0.1017
+  std. dev.       0.4593   0.5332   0.5416
+  weight sum       10806    22341     6853
+  precision       1.3862   1.3862   1.3862
+
+decent
+  mean            0.0836   0.0725   0.2544
+  std. dev.       0.4672   0.4399   0.8068
+  weight sum       10806    22341     6853
+  precision        1.302    1.302    1.302
+
+decid
+  mean            0.0883   0.0733   0.0876
+  std. dev.       0.5138   0.4712     0.51
+  weight sum       10806    22341     6853
+  precision       1.4642   1.4642   1.4642
+
+decor
+  mean            0.0419   0.0912   0.1304
+  std. dev.       0.3513   0.5113   0.6057
+  weight sum       10806    22341     6853
+  precision       1.4252   1.4252   1.4252
+
+definit
+  mean            0.0586   0.2175   0.1641
+  std. dev.       0.3177   0.5917   0.5284
+  weight sum       10806    22341     6853
+  precision       0.8528   0.8528   0.8528
+
+deliv
+  mean            0.0785   0.0506   0.0458
+  std. dev.       0.6212   0.4845   0.4691
+  weight sum       10806    22341     6853
+  precision       2.2567   2.2567   2.2567
+
+deliveri
+  mean            0.0725   0.0367   0.0345
+  std. dev.       0.5905   0.4272   0.4109
+  weight sum       10806    22341     6853
+  precision       1.9548   1.9548   1.9548
+
+desk
+  mean            0.0673   0.0303   0.0314
+  std. dev.       0.5989   0.4378   0.4378
+  weight sum       10806    22341     6853
+  precision       2.6266   2.6266   2.6266
+
+dessert
+  mean            0.0325   0.0892   0.1037
+  std. dev.       0.2979   0.4744   0.5159
+  weight sum       10806    22341     6853
+  precision       1.1316   1.1316   1.1316
+
+did
+  mean            0.2727   0.1715   0.2533
+  std. dev.        0.568   0.4565   0.5414
+  weight sum       10806    22341     6853
+  precision       0.5958   0.5958   0.5958
+
+differ
+  mean            0.0961   0.1244   0.1371
+  std. dev.         0.49   0.5601   0.5796
+  weight sum       10806    22341     6853
+  precision       1.2376   1.2376   1.2376
+
+dine
+  mean            0.0628   0.0901    0.098
+  std. dev.       0.4627   0.5518   0.5729
+  weight sum       10806    22341     6853
+  precision       1.7173   1.7173   1.7173
+
+dinner
+  mean            0.0772   0.1193   0.1432
+  std. dev.       0.4316   0.5273   0.5708
+  weight sum       10806    22341     6853
+  precision       1.0919   1.0919   1.0919
+
+dirti
+  mean            0.0973    0.019   0.0431
+  std. dev.       0.6229   0.2985   0.3996
+  weight sum       10806    22341     6853
+  precision       1.7911   1.7911   1.7911
+
+disappoint
+  mean            0.1776   0.0808   0.1464
+  std. dev.       0.6501   0.4424    0.592
+  weight sum       10806    22341     6853
+  precision       1.2294   1.2294   1.2294
+
+disgust
+  mean            0.0523   0.0022   0.0085
+  std. dev.       0.4832   0.4832   0.4832
+  weight sum       10806    22341     6853
+  precision        2.899    2.899    2.899
+
+dish
+  mean            0.0696   0.1085   0.1739
+  std. dev.       0.4057   0.5046   0.6392
+  weight sum       10806    22341     6853
+  precision       0.9857   0.9857   0.9857
+
+doe
+  mean            0.1614   0.1067   0.1397
+  std. dev.       0.6154   0.5068    0.579
+  weight sum       10806    22341     6853
+  precision       1.1948   1.1948   1.1948
+
+dog
+  mean             0.058   0.0618   0.0443
+  std. dev.       0.5158   0.5265   0.4592
+  weight sum       10806    22341     6853
+  precision       0.9884   0.9884   0.9884
+
+dollar
+  mean            0.0847   0.0375   0.0503
+  std. dev.       0.4912   0.3281     0.37
+  weight sum       10806    22341     6853
+  precision       1.2858   1.2858   1.2858
+
+dont
+  mean            0.0763   0.0253   0.0403
+  std. dev.       0.5958   0.3627   0.4341
+  weight sum       10806    22341     6853
+  precision       2.1765   2.1765   2.1765
+
+door
+  mean            0.0859    0.056   0.0585
+  std. dev.       0.4748    0.384   0.3878
+  weight sum       10806    22341     6853
+  precision       1.1935   1.1935   1.1935
+
+drink
+  mean             0.191   0.1831   0.2577
+  std. dev.       0.6501     0.61    0.718
+  weight sum       10806    22341     6853
+  precision       0.6591   0.6591   0.6591
+
+drive
+  mean            0.1101   0.0618   0.0503
+  std. dev.       0.5594   0.4139   0.3797
+  weight sum       10806    22341     6853
+  precision       1.3055   1.3055   1.3055
+
+drop
+  mean            0.0735   0.0494   0.0412
+  std. dev.       0.6115   0.5016   0.4585
+  weight sum       10806    22341     6853
+  precision       2.5691   2.5691   2.5691
+
+dry
+  mean            0.1079   0.0353   0.1137
+  std. dev.       0.5859   0.3324   0.6043
+  weight sum       10806    22341     6853
+  precision       1.4985   1.4985   1.4985
+
+dure
+  mean             0.061   0.0918   0.1055
+  std. dev.       0.4211   0.5178   0.5564
+  weight sum       10806    22341     6853
+  precision       1.4238   1.4238   1.4238
+
+eat
+  mean             0.149   0.1633   0.1981
+  std. dev.       0.5175   0.5367   0.5873
+  weight sum       10806    22341     6853
+  precision       0.8686   0.8686   0.8686
+
+egg
+  mean              0.06   0.0891   0.1182
+  std. dev.       0.4419   0.5118   0.5835
+  weight sum       10806    22341     6853
+  precision       1.0165   1.0165   1.0165
+
+els
+  mean            0.1514     0.09   0.1335
+  std. dev.       0.6611   0.5153   0.6229
+  weight sum       10806    22341     6853
+  precision       1.5166   1.5166   1.5166
+
+elsewher
+  mean            0.0579   0.0099   0.0282
+  std. dev.       0.4802   0.4802   0.4802
+  weight sum       10806    22341     6853
+  precision        2.881    2.881    2.881
+
+email
+  mean            0.0694   0.0156   0.0133
+  std. dev.       0.5985   0.3615   0.3615
+  weight sum       10806    22341     6853
+  precision       2.1688   2.1688   2.1688
+
+employe
+  mean            0.1254   0.0448   0.0484
+  std. dev.       0.6316   0.3584   0.3851
+  weight sum       10806    22341     6853
+  precision       1.3601   1.3601   1.3601
+
+empti
+  mean            0.0921   0.0266   0.0732
+  std. dev.       0.5936   0.3176   0.5283
+  weight sum       10806    22341     6853
+  precision       1.8642   1.8642   1.8642
+
+end
+  mean            0.1017   0.0991   0.1418
+  std. dev.       0.5177    0.512   0.6044
+  weight sum       10806    22341     6853
+  precision       1.2974   1.2974   1.2974
+
+enjoi
+  mean            0.0513   0.1499    0.148
+  std. dev.       0.3244   0.5599   0.5533
+  weight sum       10806    22341     6853
+  precision       1.0275   1.0275   1.0275
+
+entir
+  mean            0.0433   0.0393   0.0293
+  std. dev.       0.3935   0.3935   0.3935
+  weight sum       10806    22341     6853
+  precision       2.3607   2.3607   2.3607
+
+especi
+  mean            0.0381   0.0569   0.0798
+  std. dev.       0.3303    0.341   0.4124
+  weight sum       10806    22341     6853
+  precision       1.9815   1.9815   1.9815
+
+everi
+  mean            0.0892   0.1695   0.1005
+  std. dev.       0.4575   0.6201   0.4815
+  weight sum       10806    22341     6853
+  precision       1.1541   1.1541   1.1541
+
+everyon
+  mean            0.0769   0.1249   0.0846
+  std. dev.       0.4864   0.6151   0.5098
+  weight sum       10806    22341     6853
+  precision       1.5715   1.5715   1.5715
+
+everyth
+  mean            0.0944   0.1802   0.1336
+  std. dev.       0.4566   0.6263   0.5364
+  weight sum       10806    22341     6853
+  precision       1.1001   1.1001   1.1001
+
+expect
+  mean            0.1274   0.1157   0.2302
+  std. dev.       0.5819   0.5553   0.7684
+  weight sum       10806    22341     6853
+  precision       1.3864   1.3864   1.3864
+
+expens
+  mean            0.0962     0.06    0.119
+  std. dev.       0.5723   0.4542   0.6348
+  weight sum       10806    22341     6853
+  precision       1.7467   1.7467   1.7467
+
+experi
+  mean            0.1686   0.1788   0.1416
+  std. dev.       0.5855    0.604   0.5429
+  weight sum       10806    22341     6853
+  precision       1.0245   1.0245   1.0245
+
+explain
+  mean            0.0445   0.0379    0.022
+  std. dev.       0.5133   0.5133   0.5133
+  weight sum       10806    22341     6853
+  precision       3.0795   3.0795   3.0795
+
+extra
+  mean             0.094   0.0725   0.1026
+  std. dev.       0.5116   0.4413   0.5246
+  weight sum       10806    22341     6853
+  precision       1.2742   1.2742   1.2742
+
+extrem
+  mean            0.0919   0.0726   0.0715
+  std. dev.       0.5626   0.5009   0.4972
+  weight sum       10806    22341     6853
+  precision       1.7637   1.7637   1.7637
+
+ey
+  mean            0.0589   0.0461   0.0514
+  std. dev.        0.492   0.4466   0.4589
+  weight sum       10806    22341     6853
+  precision         1.99     1.99     1.99
+
+fact
+  mean            0.0693    0.062   0.0861
+  std. dev.       0.5564   0.5276    0.619
+  weight sum       10806    22341     6853
+  precision       2.2687   2.2687   2.2687
+
+famili
+  mean            0.0659   0.1145   0.0618
+  std. dev.       0.4355   0.5714   0.4225
+  weight sum       10806    22341     6853
+  precision       1.3875   1.3875   1.3875
+
+far
+  mean            0.0788   0.1062   0.0946
+  std. dev.       0.4997    0.578   0.5493
+  weight sum       10806    22341     6853
+  precision       1.6242   1.6242   1.6242
+
+fast
+  mean            0.0529   0.1051    0.098
+  std. dev.       0.3621   0.5085   0.4912
+  weight sum       10806    22341     6853
+  precision        1.191    1.191    1.191
+
+fee
+  mean            0.0781   0.0206   0.0412
+  std. dev.        0.605   0.3198   0.4298
+  weight sum       10806    22341     6853
+  precision       1.9189   1.9189   1.9189
+
+feel
+  mean            0.1039   0.1481   0.1676
+  std. dev.       0.4931   0.5848   0.6167
+  weight sum       10806    22341     6853
+  precision       1.1449   1.1449   1.1449
+
+felt
+  mean            0.0783    0.069   0.1089
+  std. dev.       0.5199   0.4887   0.6115
+  weight sum       10806    22341     6853
+  precision       1.7595   1.7595   1.7595
+
+final
+  mean            0.1141   0.0507   0.0666
+  std. dev.       0.5988   0.3956   0.4497
+  weight sum       10806    22341     6853
+  precision       1.5275   1.5275   1.5275
+
+fine
+  mean            0.0739   0.0448   0.0916
+  std. dev.       0.4968   0.3873   0.5516
+  weight sum       10806    22341     6853
+  precision       1.6136   1.6136   1.6136
+
+finish
+  mean            0.0659   0.0587   0.0696
+  std. dev.       0.4624   0.4353   0.4725
+  weight sum       10806    22341     6853
+  precision       1.5905   1.5905   1.5905
+
+fish
+  mean            0.0566   0.0694   0.1162
+  std. dev.       0.4322   0.4556   0.6032
+  weight sum       10806    22341     6853
+  precision       1.1871   1.1871   1.1871
+
+fix
+  mean             0.094   0.0531   0.0419
+  std. dev.       0.5672   0.4069   0.3671
+  weight sum       10806    22341     6853
+  precision       1.4873   1.4873   1.4873
+
+flavor
+  mean            0.0745    0.122   0.1559
+  std. dev.       0.3936   0.5019    0.557
+  weight sum       10806    22341     6853
+  precision       0.9363   0.9363   0.9363
+
+floor
+  mean            0.0538   0.0571   0.0864
+  std. dev.        0.402   0.4314   0.5232
+  weight sum       10806    22341     6853
+  precision       1.4037   1.4037   1.4037
+
+food
+  mean            0.3139   0.3224   0.4265
+  std. dev.       0.5332   0.5198    0.578
+  weight sum       10806    22341     6853
+  precision       0.3325   0.3325   0.3325
+
+free
+  mean             0.074   0.0985   0.1056
+  std. dev.       0.4161   0.4697   0.4849
+  weight sum       10806    22341     6853
+  precision        1.031    1.031    1.031
+
+fresh
+  mean             0.055   0.1517   0.1365
+  std. dev.       0.3309   0.5303   0.4989
+  weight sum       10806    22341     6853
+  precision       0.8902   0.8902   0.8902
+
+fri
+  mean            0.1154   0.1533   0.2267
+  std. dev.       0.5147   0.5817    0.711
+  weight sum       10806    22341     6853
+  precision        0.817    0.817    0.817
+
+fridai
+  mean            0.0477    0.052   0.0594
+  std. dev.       0.4057   0.4247   0.4578
+  weight sum       10806    22341     6853
+  precision       1.6905   1.6905   1.6905
+
+friend
+  mean             0.094   0.1525   0.1483
+  std. dev.       0.4544   0.5577   0.5566
+  weight sum       10806    22341     6853
+  precision       0.9866   0.9866   0.9866
+
+friendli
+  mean            0.0679   0.2778   0.2164
+  std. dev.       0.3652    0.699   0.6289
+  weight sum       10806    22341     6853
+  precision       1.0162   1.0162   1.0162
+
+frozen
+  mean            0.0642   0.0285   0.0593
+  std. dev.       0.5549   0.3776   0.5271
+  weight sum       10806    22341     6853
+  precision       2.2585   2.2585   2.2585
+
+game
+  mean            0.0516   0.0692   0.0725
+  std. dev.       0.4468   0.5158   0.5149
+  weight sum       10806    22341     6853
+  precision       1.1084   1.1084   1.1084
+
+gave
+  mean            0.1309   0.0843   0.0789
+  std. dev.       0.6398    0.518    0.501
+  weight sum       10806    22341     6853
+  precision       1.6293   1.6293   1.6293
+
+gener
+  mean            0.0691    0.072   0.1261
+  std. dev.       0.4867   0.4965   0.6505
+  weight sum       10806    22341     6853
+  precision       1.7417   1.7417   1.7417
+
+girl
+  mean            0.0816   0.0566   0.0651
+  std. dev.       0.5005   0.4128   0.4403
+  weight sum       10806    22341     6853
+  precision       1.3694   1.3694   1.3694
+
+given
+  mean            0.0884   0.0476   0.0899
+  std. dev.       0.6152   0.4536   0.6207
+  weight sum       10806    22341     6853
+  precision       2.1767   2.1767   2.1767
+
+glass
+  mean            0.0537   0.0497   0.0512
+  std. dev.       0.4215   0.3976   0.4022
+  weight sum       10806    22341     6853
+  precision       1.4791   1.4791   1.4791
+
+gone
+  mean             0.089   0.0427   0.0596
+  std. dev.        0.657   0.4565   0.5382
+  weight sum       10806    22341     6853
+  precision         2.46     2.46     2.46
+
+good
+  mean             0.209   0.3489   0.5044
+  std. dev.       0.4295   0.5317   0.5915
+  weight sum       10806    22341     6853
+  precision       0.3264   0.3264   0.3264
+
+got
+  mean            0.1999   0.1632   0.2177
+  std. dev.       0.5354   0.4924   0.5567
+  weight sum       10806    22341     6853
+  precision       0.6943   0.6943   0.6943
+
+great
+  mean            0.0793   0.3509   0.2189
+  std. dev.       0.2843   0.5753   0.4597
+  weight sum       10806    22341     6853
+  precision       0.4336   0.4336   0.4336
+
+green
+  mean            0.0366   0.0726    0.082
+  std. dev.       0.3366   0.4666   0.5048
+  weight sum       10806    22341     6853
+  precision       1.3743   1.3743   1.3743
+
+grill
+  mean            0.0415   0.0661   0.0922
+  std. dev.       0.3532   0.4482   0.5283
+  weight sum       10806    22341     6853
+  precision        1.376    1.376    1.376
+
+group
+  mean            0.0443    0.067   0.0909
+  std. dev.       0.3647   0.4431   0.5145
+  weight sum       10806    22341     6853
+  precision       1.3629   1.3629   1.3629
+
+guess
+  mean            0.0771   0.0296   0.0861
+  std. dev.       0.4364   0.3859   0.4488
+  weight sum       10806    22341     6853
+  precision       2.3152   2.3152   2.3152
+
+gui
+  mean            0.1335   0.1069     0.08
+  std. dev.       0.5721   0.5033   0.4349
+  weight sum       10806    22341     6853
+  precision       1.1071   1.1071   1.1071
+
+ha
+  mean            0.1821   0.2105   0.2197
+  std. dev.       0.5672   0.6084   0.6209
+  weight sum       10806    22341     6853
+  precision       0.9005   0.9005   0.9005
+
+hair
+  mean            0.0569   0.0541   0.0344
+  std. dev.       0.4891   0.5115    0.372
+  weight sum       10806    22341     6853
+  precision       1.3176   1.3176   1.3176
+
+half
+  mean            0.1185   0.0721    0.121
+  std. dev.       0.5816   0.4628   0.5991
+  weight sum       10806    22341     6853
+  precision       1.3916   1.3916   1.3916
+
+hand
+  mean            0.0873   0.0832   0.0787
+  std. dev.        0.511   0.4922    0.486
+  weight sum       10806    22341     6853
+  precision       1.4383   1.4383   1.4383
+
+happen
+  mean            0.1179   0.0519   0.0731
+  std. dev.       0.6973   0.4654   0.5501
+  weight sum       10806    22341     6853
+  precision       2.1055   2.1055   2.1055
+
+happi
+  mean            0.0504   0.1433     0.09
+  std. dev.       0.3494    0.579   0.4579
+  weight sum       10806    22341     6853
+  precision       1.1038   1.1038   1.1038
+
+hard
+  mean            0.1011   0.0792   0.1307
+  std. dev.       0.5279   0.4667   0.5914
+  weight sum       10806    22341     6853
+  precision       1.3656   1.3656   1.3656
+
+head
+  mean            0.0627   0.0633   0.0591
+  std. dev.       0.4978   0.5005   0.4834
+  weight sum       10806    22341     6853
+  precision       2.0059   2.0059   2.0059
+
+hear
+  mean             0.065   0.0439   0.0565
+  std. dev.       0.5589   0.4493    0.506
+  weight sum       10806    22341     6853
+  precision        2.253    2.253    2.253
+
+help
+  mean            0.0904    0.133   0.0747
+  std. dev.       0.4303   0.5124   0.3957
+  weight sum       10806    22341     6853
+  precision       0.9407   0.9407   0.9407
+
+hi
+  mean            0.1101   0.1006   0.0622
+  std. dev.       0.5237   0.4973   0.3742
+  weight sum       10806    22341     6853
+  precision       1.0371   1.0371   1.0371
+
+high
+  mean            0.0801   0.0792   0.1235
+  std. dev.       0.4789   0.4767   0.5932
+  weight sum       10806    22341     6853
+  precision       1.4126   1.4126   1.4126
+
+hold
+  mean            0.0487   0.0199   0.0213
+  std. dev.       0.5066   0.5066   0.5066
+  weight sum       10806    22341     6853
+  precision       3.0399   3.0399   3.0399
+
+home
+  mean            0.0908   0.0987    0.081
+  std. dev.       0.4439   0.4607   0.4075
+  weight sum       10806    22341     6853
+  precision       1.0182   1.0182   1.0182
+
+hope
+  mean             0.058   0.0348   0.0554
+  std. dev.       0.3601   0.3578   0.3578
+  weight sum       10806    22341     6853
+  precision       2.1468   2.1468   2.1468
+
+horribl
+  mean            0.1719   0.0076   0.0352
+  std. dev.       0.7872   0.2935   0.3561
+  weight sum       10806    22341     6853
+  precision       1.7607   1.7607   1.7607
+
+hot
+  mean            0.0786   0.1117   0.1411
+  std. dev.       0.4243   0.4992   0.5686
+  weight sum       10806    22341     6853
+  precision       0.8797   0.8797   0.8797
+
+hotel
+  mean            0.0786    0.072   0.0986
+  std. dev.       0.5072   0.4872   0.5659
+  weight sum       10806    22341     6853
+  precision       1.0691   1.0691   1.0691
+
+hour
+  mean            0.2329   0.1498    0.158
+  std. dev.       0.7019   0.5661   0.5797
+  weight sum       10806    22341     6853
+  precision       0.7037   0.7037   0.7037
+
+hous
+  mean            0.0533   0.0885   0.0759
+  std. dev.       0.3874   0.4923   0.4721
+  weight sum       10806    22341     6853
+  precision       1.2836   1.2836   1.2836
+
+howev
+  mean            0.0978   0.0672    0.205
+  std. dev.       0.5139   0.4238   0.7347
+  weight sum       10806    22341     6853
+  precision       1.3378   1.3378   1.3378
+
+huge
+  mean            0.0559   0.1222    0.134
+  std. dev.       0.4143   0.6073   0.6341
+  weight sum       10806    22341     6853
+  precision       1.5639   1.5639   1.5639
+
+husband
+  mean            0.0474   0.0619   0.0546
+  std. dev.       0.3914   0.4345   0.4194
+  weight sum       10806    22341     6853
+  precision       1.4293   1.4293   1.4293
+
+ic
+  mean            0.0649   0.0829   0.1056
+  std. dev.       0.4301   0.4934   0.5723
+  weight sum       10806    22341     6853
+  precision         1.12     1.12     1.12
+
+ignor
+  mean            0.0748   0.0087   0.0287
+  std. dev.       0.6139   0.4262   0.4262
+  weight sum       10806    22341     6853
+  precision       2.5573   2.5573   2.5573
+
+impress
+  mean            0.0548   0.0809   0.0995
+  std. dev.       0.4063   0.4942   0.5432
+  weight sum       10806    22341     6853
+  precision       1.4795   1.4795   1.4795
+
+includ
+  mean            0.0678   0.0877   0.0937
+  std. dev.       0.4471    0.505   0.5271
+  weight sum       10806    22341     6853
+  precision       1.4372   1.4372   1.4372
+
+inform
+  mean            0.0777   0.0476   0.0348
+  std. dev.       0.6246     0.49   0.4229
+  weight sum       10806    22341     6853
+  precision       2.5372   2.5372   2.5372
+
+insid
+  mean             0.088    0.099   0.1315
+  std. dev.       0.4955   0.5165   0.6014
+  weight sum       10806    22341     6853
+  precision       1.3314   1.3314   1.3314
+
+instead
+  mean            0.1131   0.0557   0.0937
+  std. dev.       0.6221     0.44   0.5672
+  weight sum       10806    22341     6853
+  precision       1.7637   1.7637   1.7637
+
+issu
+  mean            0.0862   0.0493   0.0647
+  std. dev.       0.5438   0.4065   0.4648
+  weight sum       10806    22341     6853
+  precision       1.5502   1.5502   1.5502
+
+item
+  mean              0.07   0.0753   0.1352
+  std. dev.       0.4228   0.4236   0.5648
+  weight sum       10806    22341     6853
+  precision       1.0826   1.0826   1.0826
+
+job
+  mean            0.0665   0.0827   0.0493
+  std. dev.       0.4001   0.4497   0.3403
+  weight sum       10806    22341     6853
+  precision       1.1367   1.1367   1.1367
+
+joke
+  mean              0.05   0.0102   0.0122
+  std. dev.       0.4978   0.4978   0.4978
+  weight sum       10806    22341     6853
+  precision       2.9869   2.9869   2.9869
+
+just
+  mean            0.2599   0.2061   0.2992
+  std. dev.       0.4963    0.446   0.5259
+  weight sum       10806    22341     6853
+  precision       0.5073   0.5073   0.5073
+
+kept
+  mean            0.0883   0.0652   0.0773
+  std. dev.        0.655   0.5639   0.6147
+  weight sum       10806    22341     6853
+  precision       2.4648   2.4648   2.4648
+
+kid
+  mean            0.0847   0.0708    0.063
+  std. dev.       0.4651   0.4365   0.4125
+  weight sum       10806    22341     6853
+  precision       1.1542   1.1542   1.1542
+
+kind
+  mean            0.0878   0.1089   0.1555
+  std. dev.       0.5131    0.569   0.6779
+  weight sum       10806    22341     6853
+  precision       1.5355   1.5355   1.5355
+
+kitchen
+  mean            0.0621   0.0474   0.0694
+  std. dev.        0.468   0.4052   0.4986
+  weight sum       10806    22341     6853
+  precision       1.6695   1.6695   1.6695
+
+know
+  mean            0.1791   0.1658   0.1657
+  std. dev.       0.6027   0.5814   0.5759
+  weight sum       10806    22341     6853
+  precision        1.023    1.023    1.023
+
+la
+  mean            0.0415   0.0917   0.0566
+  std. dev.       0.3254   0.4956   0.3917
+  weight sum       10806    22341     6853
+  precision       1.2322   1.2322   1.2322
+
+lack
+  mean            0.0686   0.0205   0.0994
+  std. dev.       0.4145   0.3874   0.4932
+  weight sum       10806    22341     6853
+  precision       2.3246   2.3246   2.3246
+
+ladi
+  mean            0.0936   0.0571   0.0749
+  std. dev.       0.5569   0.4242   0.4916
+  weight sum       10806    22341     6853
+  precision       1.5417   1.5417   1.5417
+
+larg
+  mean            0.0576   0.1116    0.136
+  std. dev.       0.4055   0.5503   0.6124
+  weight sum       10806    22341     6853
+  precision       1.3356   1.3356   1.3356
+
+late
+  mean            0.0692   0.0656   0.0895
+  std. dev.       0.4759   0.4528   0.5257
+  weight sum       10806    22341     6853
+  precision       1.4749   1.4749   1.4749
+
+later
+  mean            0.1496   0.0665   0.0666
+  std. dev.       0.6933   0.4682   0.4708
+  weight sum       10806    22341     6853
+  precision       1.6786   1.6786   1.6786
+
+leav
+  mean            0.1435   0.0729   0.0788
+  std. dev.       0.6748   0.4864   0.5051
+  weight sum       10806    22341     6853
+  precision        1.651    1.651    1.651
+
+left
+  mean             0.116    0.038   0.0536
+  std. dev.       0.4618   0.2661   0.3039
+  weight sum       10806    22341     6853
+  precision       1.5966   1.5966   1.5966
+
+let
+  mean            0.1034   0.0774   0.0755
+  std. dev.       0.5065   0.4371   0.4325
+  weight sum       10806    22341     6853
+  precision       1.2176   1.2176   1.2176
+
+life
+  mean            0.0514   0.0568   0.0257
+  std. dev.       0.4324   0.4515   0.2994
+  weight sum       10806    22341     6853
+  precision       1.7591   1.7591   1.7591
+
+light
+  mean             0.054    0.075   0.0973
+  std. dev.       0.4118   0.4769   0.5406
+  weight sum       10806    22341     6853
+  precision       1.4273   1.4273   1.4273
+
+like
+  mean            0.2428    0.226   0.3525
+  std. dev.       0.4916   0.4772   0.5794
+  weight sum       10806    22341     6853
+  precision       0.4355   0.4355   0.4355
+
+line
+  mean            0.1236   0.0786   0.1031
+  std. dev.       0.5582   0.4298   0.4936
+  weight sum       10806    22341     6853
+  precision       0.9366   0.9366   0.9366
+
+list
+  mean            0.0467   0.0617   0.0617
+  std. dev.          0.4   0.4551   0.4612
+  weight sum       10806    22341     6853
+  precision       1.6394   1.6394   1.6394
+
+liter
+  mean            0.0994    0.047   0.0679
+  std. dev.       0.6857   0.4725   0.5665
+  weight sum       10806    22341     6853
+  precision        2.398    2.398    2.398
+
+littl
+  mean            0.0871    0.169   0.2539
+  std. dev.       0.3894   0.5361   0.6525
+  weight sum       10806    22341     6853
+  precision       0.8372   0.8372   0.8372
+
+live
+  mean            0.0655   0.1052   0.0859
+  std. dev.       0.4393   0.5462   0.4926
+  weight sum       10806    22341     6853
+  precision       1.3916   1.3916   1.3916
+
+locat
+  mean            0.1403   0.1587   0.2034
+  std. dev.       0.5395   0.5617   0.6408
+  weight sum       10806    22341     6853
+  precision       0.9343   0.9343   0.9343
+
+long
+  mean            0.1598   0.1341   0.1666
+  std. dev.       0.6393   0.5881   0.6522
+  weight sum       10806    22341     6853
+  precision       1.3479   1.3479   1.3479
+
+longer
+  mean            0.0523    0.024   0.0367
+  std. dev.       0.4932   0.4932   0.4932
+  weight sum       10806    22341     6853
+  precision       2.9592   2.9592   2.9592
+
+look
+  mean            0.1967   0.1839   0.2019
+  std. dev.       0.5585   0.5395   0.5592
+  weight sum       10806    22341     6853
+  precision        0.785    0.785    0.785
+
+lost
+  mean            0.0527    0.014   0.0226
+  std. dev.       0.4968   0.4968   0.4968
+  weight sum       10806    22341     6853
+  precision       2.9806   2.9806   2.9806
+
+lot
+  mean            0.1109   0.1685   0.2376
+  std. dev.       0.4911   0.5936   0.6952
+  weight sum       10806    22341     6853
+  precision       1.0452   1.0452   1.0452
+
+loud
+  mean            0.0639   0.0467   0.0805
+  std. dev.       0.5458   0.4626   0.6052
+  weight sum       10806    22341     6853
+  precision       2.3166   2.3166   2.3166
+
+love
+  mean            0.0496   0.2532   0.1426
+  std. dev.       0.2733   0.6057   0.4645
+  weight sum       10806    22341     6853
+  precision       0.7205   0.7205   0.7205
+
+low
+  mean            0.0631   0.0451    0.058
+  std. dev.       0.5443   0.4566   0.5258
+  weight sum       10806    22341     6853
+  precision       2.2585   2.2585   2.2585
+
+lunch
+  mean            0.0795   0.1155   0.1698
+  std. dev.       0.4439   0.5156   0.6432
+  weight sum       10806    22341     6853
+  precision       0.8718   0.8718   0.8718
+
+mai
+  mean            0.0672   0.0682   0.0945
+  std. dev.       0.4547   0.4602   0.5379
+  weight sum       10806    22341     6853
+  precision       1.5139   1.5139   1.5139
+
+make
+  mean            0.1787   0.2024   0.1777
+  std. dev.       0.5251   0.5455   0.5155
+  weight sum       10806    22341     6853
+  precision       0.7679   0.7679   0.7679
+
+man
+  mean            0.0538   0.0532   0.0386
+  std. dev.       0.4505   0.4417   0.3724
+  weight sum       10806    22341     6853
+  precision       1.7165   1.7165   1.7165
+
+manag
+  mean             0.235   0.0565    0.076
+  std. dev.       0.7638   0.3644   0.4354
+  weight sum       10806    22341     6853
+  precision       1.1228   1.1228   1.1228
+
+mani
+  mean             0.116   0.1362   0.1548
+  std. dev.        0.522   0.5676   0.6018
+  weight sum       10806    22341     6853
+  precision       1.1685   1.1685   1.1685
+
+mayb
+  mean            0.1303   0.0705   0.1852
+  std. dev.       0.6274   0.4656   0.7421
+  weight sum       10806    22341     6853
+  precision       1.5649   1.5649   1.5649
+
+meal
+  mean            0.1025   0.1188   0.1572
+  std. dev.       0.4912   0.5199    0.596
+  weight sum       10806    22341     6853
+  precision       1.0569   1.0569   1.0569
+
+mean
+  mean            0.0901    0.067   0.0832
+  std. dev.       0.5587   0.4833   0.5388
+  weight sum       10806    22341     6853
+  precision        1.777    1.777    1.777
+
+meat
+  mean            0.0939   0.0908   0.1486
+  std. dev.       0.4788   0.4636   0.5888
+  weight sum       10806    22341     6853
+  precision       1.0293   1.0293   1.0293
+
+mediocr
+  mean            0.1051   0.0147   0.0734
+  std. dev.        0.664   0.3584   0.5572
+  weight sum       10806    22341     6853
+  precision       2.1505   2.1505   2.1505
+
+meh
+  mean            0.0671   0.0091    0.055
+  std. dev.       0.5318   0.3241   0.4677
+  weight sum       10806    22341     6853
+  precision       1.9445   1.9445   1.9445
+
+mention
+  mean            0.0765   0.0613   0.0554
+  std. dev.       0.5445   0.4891   0.4646
+  weight sum       10806    22341     6853
+  precision       1.9767   1.9767   1.9767
+
+menu
+  mean            0.1013   0.1613   0.2119
+  std. dev.       0.4616   0.5545   0.6309
+  weight sum       10806    22341     6853
+  precision       0.9212   0.9212   0.9212
+
+mess
+  mean            0.0842   0.0257   0.0473
+  std. dev.       0.6435   0.4153   0.4831
+  weight sum       10806    22341     6853
+  precision       2.4919   2.4919   2.4919
+
+min
+  mean            0.1656   0.0422   0.0657
+  std. dev.       0.7324   0.3656   0.4641
+  weight sum       10806    22341     6853
+  precision       1.4903   1.4903   1.4903
+
+minut
+  mean            0.2955   0.0842   0.1304
+  std. dev.       0.7606   0.3968   0.5052
+  weight sum       10806    22341     6853
+  precision       0.8894   0.8894   0.8894
+
+miss
+  mean            0.0893   0.0651   0.0908
+  std. dev.        0.557   0.4765   0.5606
+  weight sum       10806    22341     6853
+  precision        1.777    1.777    1.777
+
+monei
+  mean            0.2021   0.0418   0.0533
+  std. dev.       0.7056   0.3209   0.3668
+  weight sum       10806    22341     6853
+  precision       1.2091   1.2091   1.2091
+
+month
+  mean            0.1178   0.0669   0.0418
+  std. dev.        0.627   0.4564   0.3596
+  weight sum       10806    22341     6853
+  precision       1.4912   1.4912   1.4912
+
+morn
+  mean            0.0486   0.0551   0.0519
+  std. dev.       0.3847   0.4107   0.3935
+  weight sum       10806    22341     6853
+  precision       1.4508   1.4508   1.4508
+
+music
+  mean            0.0483   0.0941   0.0886
+  std. dev.       0.3987   0.5421   0.5281
+  weight sum       10806    22341     6853
+  precision       1.4743   1.4743   1.4743
+
+n
+  mean             0.038   0.0427   0.0337
+  std. dev.       0.3934   0.4118   0.3581
+  weight sum       10806    22341     6853
+  precision       1.3733   1.3733   1.3733
+
+nail
+  mean            0.0609   0.0526   0.0326
+  std. dev.       0.5939   0.5145   0.4135
+  weight sum       10806    22341     6853
+  precision       1.2833   1.2833   1.2833
+
+need
+  mean            0.1896   0.1756   0.1766
+  std. dev.       0.6093   0.5839   0.5869
+  weight sum       10806    22341     6853
+  precision       0.9856   0.9856   0.9856
+
+new
+  mean            0.1106   0.1371    0.102
+  std. dev.       0.4691   0.5096   0.4489
+  weight sum       10806    22341     6853
+  precision       0.8942   0.8942   0.8942
+
+nice
+  mean            0.1023    0.195   0.2561
+  std. dev.       0.3725    0.517   0.5801
+  weight sum       10806    22341     6853
+  precision       0.6838   0.6838   0.6838
+
+night
+  mean            0.1072   0.1388   0.1627
+  std. dev.       0.4426   0.5093   0.5401
+  weight sum       10806    22341     6853
+  precision       0.8556   0.8556   0.8556
+
+noodl
+  mean            0.0569   0.0611   0.1518
+  std. dev.       0.4708   0.4825   0.7752
+  weight sum       10806    22341     6853
+  precision       1.0351   1.0351   1.0351
+
+noth
+  mean            0.1788   0.0672   0.2196
+  std. dev.        0.656   0.4073   0.7241
+  weight sum       10806    22341     6853
+  precision       1.2153   1.2153   1.2153
+
+notic
+  mean            0.0817   0.0522   0.0789
+  std. dev.       0.5997   0.4815   0.5884
+  weight sum       10806    22341     6853
+  precision       2.2341   2.2341   2.2341
+
+number
+  mean            0.0832   0.0436   0.0512
+  std. dev.        0.647   0.4681   0.5037
+  weight sum       10806    22341     6853
+  precision       2.5048   2.5048   2.5048
+
+offer
+  mean            0.1092   0.1049   0.1227
+  std. dev.       0.5429   0.5284   0.5787
+  weight sum       10806    22341     6853
+  precision       1.2954   1.2954   1.2954
+
+offic
+  mean            0.0753   0.0366   0.0287
+  std. dev.       0.5638   0.3848    0.338
+  weight sum       10806    22341     6853
+  precision       1.7119   1.7119   1.7119
+
+oh
+  mean            0.0667   0.0702   0.0616
+  std. dev.       0.4554   0.4687    0.438
+  weight sum       10806    22341     6853
+  precision       1.5459   1.5459   1.5459
+
+oil
+  mean            0.0692   0.0379   0.0465
+  std. dev.       0.5591    0.394    0.433
+  weight sum       10806    22341     6853
+  precision       1.7507   1.7507   1.7507
+
+ok
+  mean            0.1339   0.0472    0.212
+  std. dev.       0.6036   0.3592   0.7585
+  weight sum       10806    22341     6853
+  precision       1.3463   1.3463   1.3463
+
+okai
+  mean            0.0817   0.0401   0.1734
+  std. dev.       0.5352   0.3763   0.7837
+  weight sum       10806    22341     6853
+  precision       1.7048   1.7048   1.7048
+
+old
+  mean            0.1074   0.0819   0.0899
+  std. dev.       0.5223   0.4544   0.4731
+  weight sum       10806    22341     6853
+  precision        1.196    1.196    1.196
+
+onc
+  mean            0.0996    0.095   0.1311
+  std. dev.       0.5533   0.5411   0.6315
+  weight sum       10806    22341     6853
+  precision        1.587    1.587    1.587
+
+onion
+  mean            0.0436    0.054   0.0783
+  std. dev.        0.398   0.4129   0.5061
+  weight sum       10806    22341     6853
+  precision       1.4533   1.4533   1.4533
+
+onli
+  mean            0.2792   0.2141   0.2695
+  std. dev.       0.6341   0.5585   0.6228
+  weight sum       10806    22341     6853
+  precision        0.774    0.774    0.774
+
+onlin
+  mean            0.0748   0.0343   0.0315
+  std. dev.       0.6225   0.4277   0.4277
+  weight sum       10806    22341     6853
+  precision       2.5661   2.5661   2.5661
+
+open
+  mean            0.1315    0.117   0.1374
+  std. dev.       0.5834   0.5412    0.585
+  weight sum       10806    22341     6853
+  precision       1.2214   1.2214   1.2214
+
+option
+  mean            0.0742   0.1103   0.1471
+  std. dev.       0.4453   0.5454   0.6336
+  weight sum       10806    22341     6853
+  precision       1.3071   1.3071   1.3071
+
+order
+  mean            0.3591   0.2342   0.3821
+  std. dev.       0.7186   0.5765   0.7062
+  weight sum       10806    22341     6853
+  precision       0.4693   0.4693   0.4693
+
+outsid
+  mean            0.0665   0.0859   0.0999
+  std. dev.       0.4446   0.4986   0.5401
+  weight sum       10806    22341     6853
+  precision       1.4379   1.4379   1.4379
+
+overal
+  mean            0.0588      0.1   0.2081
+  std. dev.       0.4151   0.5363   0.7609
+  weight sum       10806    22341     6853
+  precision       1.4887   1.4887   1.4887
+
+overpr
+  mean            0.1033   0.0185   0.0925
+  std. dev.       0.6544   0.3522   0.6184
+  weight sum       10806    22341     6853
+  precision       2.1133   2.1133   2.1133
+
+owner
+  mean            0.1029   0.0997   0.0433
+  std. dev.       0.5742   0.5479   0.3649
+  weight sum       10806    22341     6853
+  precision       1.4533   1.4533   1.4533
+
+pai
+  mean            0.1823   0.0602   0.1225
+  std. dev.       0.6443   0.3731   0.5309
+  weight sum       10806    22341     6853
+  precision       1.1191   1.1191   1.1191
+
+paid
+  mean            0.1257   0.0319   0.0626
+  std. dev.       0.6731   0.3402   0.4757
+  weight sum       10806    22341     6853
+  precision       1.7729   1.7729   1.7729
+
+park
+  mean            0.0697   0.0846   0.1087
+  std. dev.       0.4584    0.476   0.5597
+  weight sum       10806    22341     6853
+  precision       1.0056   1.0056   1.0056
+
+parti
+  mean             0.059   0.0688    0.066
+  std. dev.       0.4138    0.454   0.4498
+  weight sum       10806    22341     6853
+  precision       1.3617   1.3617   1.3617
+
+pass
+  mean            0.0734   0.0541   0.0711
+  std. dev.       0.5773   0.4971   0.5712
+  weight sum       10806    22341     6853
+  precision       2.2978   2.2978   2.2978
+
+past
+  mean              0.08   0.0677   0.0758
+  std. dev.       0.6315   0.5803   0.6134
+  weight sum       10806    22341     6853
+  precision       2.5207   2.5207   2.5207
+
+peopl
+  mean            0.2178   0.1424   0.1698
+  std. dev.        0.612   0.4961   0.5432
+  weight sum       10806    22341     6853
+  precision       0.8581   0.8581   0.8581
+
+person
+  mean            0.1408   0.1214   0.1284
+  std. dev.       0.6106    0.566   0.5812
+  weight sum       10806    22341     6853
+  precision       1.3766   1.3766   1.3766
+
+phone
+  mean            0.1648   0.0441   0.0428
+  std. dev.       0.8229   0.4227   0.4316
+  weight sum       10806    22341     6853
+  precision       1.2418   1.2418   1.2418
+
+pick
+  mean            0.0886   0.0768   0.0868
+  std. dev.       0.5304   0.4955   0.5248
+  weight sum       10806    22341     6853
+  precision       1.5247   1.5247   1.5247
+
+pictur
+  mean            0.0558    0.048   0.0545
+  std. dev.       0.4995   0.4548   0.4847
+  weight sum       10806    22341     6853
+  precision        2.029    2.029    2.029
+
+piec
+  mean            0.0841   0.0491   0.0973
+  std. dev.       0.5046   0.3818   0.5495
+  weight sum       10806    22341     6853
+  precision       1.3581   1.3581   1.3581
+
+pizza
+  mean            0.1206   0.1379   0.1632
+  std. dev.       0.6266   0.6784   0.7485
+  weight sum       10806    22341     6853
+  precision       0.8012   0.8012   0.8012
+
+place
+  mean             0.232   0.2878     0.33
+  std. dev.       0.4388   0.4863    0.521
+  weight sum       10806    22341     6853
+  precision       0.3646   0.3646   0.3646
+
+plai
+  mean             0.045   0.0783    0.067
+  std. dev.       0.3982   0.5147   0.4768
+  weight sum       10806    22341     6853
+  precision       1.5162   1.5162   1.5162
+
+plate
+  mean            0.0742   0.0628   0.0982
+  std. dev.       0.4411   0.4012   0.5068
+  weight sum       10806    22341     6853
+  precision       1.1542   1.1542   1.1542
+
+pleas
+  mean            0.0758    0.067   0.0459
+  std. dev.       0.4686   0.4306   0.3558
+  weight sum       10806    22341     6853
+  precision       1.3445   1.3445   1.3445
+
+plu
+  mean             0.075   0.0856   0.0827
+  std. dev.       0.5045   0.5384   0.5283
+  weight sum       10806    22341     6853
+  precision       1.7283   1.7283   1.7283
+
+pm
+  mean             0.075   0.0314   0.0601
+  std. dev.       0.6078   0.4108   0.5498
+  weight sum       10806    22341     6853
+  precision        2.465    2.465    2.465
+
+point
+  mean            0.0757   0.0707   0.0807
+  std. dev.       0.4521   0.4311   0.4628
+  weight sum       10806    22341     6853
+  precision       1.2865   1.2865   1.2865
+
+poor
+  mean            0.1594   0.0135   0.0428
+  std. dev.       0.8094   0.3539    0.424
+  weight sum       10806    22341     6853
+  precision       2.1234   2.1234   2.1234
+
+pork
+  mean            0.0427   0.0841   0.1326
+  std. dev.       0.3673   0.4939   0.6288
+  weight sum       10806    22341     6853
+  precision       1.2309   1.2309   1.2309
+
+portion
+  mean            0.0594   0.1176   0.2003
+  std. dev.        0.394   0.5464   0.7097
+  weight sum       10806    22341     6853
+  precision       1.2545   1.2545   1.2545
+
+post
+  mean            0.0486     0.02   0.0196
+  std. dev.       0.4145   0.4145   0.4145
+  weight sum       10806    22341     6853
+  precision       2.4869   2.4869   2.4869
+
+potato
+  mean            0.0444   0.0722   0.1088
+  std. dev.       0.3635   0.4537   0.5714
+  weight sum       10806    22341     6853
+  precision       1.3262   1.3262   1.3262
+
+pretti
+  mean            0.0995   0.1458   0.3151
+  std. dev.        0.429   0.5203   0.7459
+  weight sum       10806    22341     6853
+  precision       0.8886   0.8886   0.8886
+
+price
+  mean            0.1779    0.207   0.2891
+  std. dev.       0.5043   0.5252   0.6135
+  weight sum       10806    22341     6853
+  precision       0.7017   0.7017   0.7017
+
+probabl
+  mean            0.0994   0.0882   0.1953
+  std. dev.       0.5463   0.5155   0.7523
+  weight sum       10806    22341     6853
+  precision       1.5439   1.5439   1.5439
+
+problem
+  mean            0.0829   0.0455   0.0615
+  std. dev.       0.5102   0.3653   0.4245
+  weight sum       10806    22341     6853
+  precision       1.4091   1.4091   1.4091
+
+product
+  mean            0.0511   0.0527   0.0401
+  std. dev.         0.45   0.4474   0.3941
+  weight sum       10806    22341     6853
+  precision       1.7379   1.7379   1.7379
+
+provid
+  mean            0.0599   0.0688   0.0492
+  std. dev.       0.4765   0.5084   0.4316
+  weight sum       10806    22341     6853
+  precision       1.9034   1.9034   1.9034
+
+pull
+  mean            0.0571   0.0429   0.0569
+  std. dev.       0.5035   0.4378   0.5223
+  weight sum       10806    22341     6853
+  precision       2.0214   2.0214   2.0214
+
+purchas
+  mean            0.0844   0.0561   0.0487
+  std. dev.       0.6309   0.5131   0.4713
+  weight sum       10806    22341     6853
+  precision         2.14     2.14     2.14
+
+qualiti
+  mean            0.1012   0.1162   0.1387
+  std. dev.       0.4758   0.5017   0.5536
+  weight sum       10806    22341     6853
+  precision       1.0612   1.0612   1.0612
+
+quit
+  mean             0.054   0.0829   0.1719
+  std. dev.        0.366   0.4561    0.657
+  weight sum       10806    22341     6853
+  precision       1.1947   1.1947   1.1947
+
+rate
+  mean             0.088   0.0584   0.0945
+  std. dev.        0.525   0.4217   0.5374
+  weight sum       10806    22341     6853
+  precision       1.4556   1.4556   1.4556
+
+read
+  mean            0.0808   0.0498   0.0585
+  std. dev.       0.5582   0.4405   0.4653
+  weight sum       10806    22341     6853
+  precision       1.8549   1.8549   1.8549
+
+readi
+  mean            0.0815   0.0556   0.0624
+  std. dev.       0.6153   0.4906   0.5237
+  weight sum       10806    22341     6853
+  precision       2.1483   2.1483   2.1483
+
+real
+  mean            0.0563   0.0627   0.0544
+  std. dev.       0.3997   0.4284   0.3948
+  weight sum       10806    22341     6853
+  precision       1.3917   1.3917   1.3917
+
+realli
+  mean            0.1519    0.201   0.2977
+  std. dev.       0.4439   0.5094   0.6033
+  weight sum       10806    22341     6853
+  precision       0.6254   0.6254   0.6254
+
+reason
+  mean            0.1005   0.1471    0.144
+  std. dev.       0.5224   0.6269   0.6207
+  weight sum       10806    22341     6853
+  precision       1.4073   1.4073   1.4073
+
+receiv
+  mean             0.118   0.0451   0.0499
+  std. dev.       0.6405    0.395   0.4077
+  weight sum       10806    22341     6853
+  precision       1.6533   1.6533   1.6533
+
+recommend
+  mean            0.1048   0.2652    0.127
+  std. dev.        0.461   0.7054   0.5058
+  weight sum       10806    22341     6853
+  precision       1.0651   1.0651   1.0651
+
+red
+  mean            0.0456   0.0701   0.0845
+  std. dev.       0.3932   0.4822   0.5315
+  weight sum       10806    22341     6853
+  precision       1.5781   1.5781   1.5781
+
+refil
+  mean            0.0615   0.0383   0.0681
+  std. dev.       0.5232      0.4   0.5353
+  weight sum       10806    22341     6853
+  precision       2.0201   2.0201   2.0201
+
+refund
+  mean            0.0782   0.0041   0.0137
+  std. dev.       0.6265    0.365    0.365
+  weight sum       10806    22341     6853
+  precision       2.1902   2.1902   2.1902
+
+refus
+  mean            0.0472   0.0039   0.0084
+  std. dev.       0.5061   0.5061   0.5061
+  weight sum       10806    22341     6853
+  precision       3.0364   3.0364   3.0364
+
+regular
+  mean            0.0536   0.0783   0.1074
+  std. dev.       0.4338   0.5215   0.6087
+  weight sum       10806    22341     6853
+  precision       1.7727   1.7727   1.7727
+
+replac
+  mean             0.076   0.0407   0.0279
+  std. dev.       0.6094   0.4401   0.3658
+  weight sum       10806    22341     6853
+  precision       2.1949   2.1949   2.1949
+
+request
+  mean            0.0737   0.0403   0.0467
+  std. dev.       0.5878   0.4255   0.4685
+  weight sum       10806    22341     6853
+  precision       2.1925   2.1925   2.1925
+
+reserv
+  mean            0.0566   0.0494   0.0578
+  std. dev.       0.4578   0.3956   0.4215
+  weight sum       10806    22341     6853
+  precision       1.4714   1.4714   1.4714
+
+respons
+  mean            0.0761   0.0185   0.0174
+  std. dev.       0.5807   0.3605   0.3605
+  weight sum       10806    22341     6853
+  precision       2.1632   2.1632   2.1632
+
+rest
+  mean            0.0732   0.0641    0.075
+  std. dev.        0.609   0.5709   0.6161
+  weight sum       10806    22341     6853
+  precision       2.5691   2.5691   2.5691
+
+restaur
+  mean            0.1417   0.1585   0.2192
+  std. dev.       0.4972   0.5175   0.6146
+  weight sum       10806    22341     6853
+  precision       0.6868   0.6868   0.6868
+
+return
+  mean            0.1499   0.0852   0.0991
+  std. dev.       0.6217   0.4693     0.51
+  weight sum       10806    22341     6853
+  precision       1.3015   1.3015   1.3015
+
+review
+  mean            0.1373   0.1132   0.1261
+  std. dev.       0.5139   0.4523   0.4777
+  weight sum       10806    22341     6853
+  precision       0.7985   0.7985   0.7985
+
+rib
+  mean            0.0372   0.0527    0.078
+  std. dev.       0.3845   0.4161   0.5493
+  weight sum       10806    22341     6853
+  precision       1.2095   1.2095   1.2095
+
+rice
+  mean            0.0717   0.0823   0.1556
+  std. dev.       0.4471   0.4523   0.6575
+  weight sum       10806    22341     6853
+  precision       1.0725   1.0725   1.0725
+
+ridicul
+  mean            0.0763   0.0129   0.0286
+  std. dev.       0.4551   0.4476   0.4476
+  weight sum       10806    22341     6853
+  precision       2.6858   2.6858   2.6858
+
+right
+  mean            0.1334    0.163   0.1585
+  std. dev.       0.5354   0.5881    0.578
+  weight sum       10806    22341     6853
+  precision       1.0768   1.0768   1.0768
+
+rip
+  mean            0.0561   0.0062   0.0115
+  std. dev.       0.4883   0.4883   0.4883
+  weight sum       10806    22341     6853
+  precision         2.93     2.93     2.93
+
+roll
+  mean            0.0696    0.101   0.1539
+  std. dev.       0.4592   0.5676   0.7166
+  weight sum       10806    22341     6853
+  precision       0.8708   0.8708   0.8708
+
+room
+  mean            0.1266   0.1096   0.1329
+  std. dev.       0.6294   0.5464    0.621
+  weight sum       10806    22341     6853
+  precision       0.9078   0.9078   0.9078
+
+rude
+  mean            0.1782   0.0114   0.0453
+  std. dev.       0.7492   0.2509   0.3874
+  weight sum       10806    22341     6853
+  precision       1.5056   1.5056   1.5056
+
+run
+  mean            0.0844   0.0562   0.0626
+  std. dev.       0.4765   0.3904    0.412
+  weight sum       10806    22341     6853
+  precision       1.2912   1.2912   1.2912
+
+sad
+  mean            0.0493   0.0123   0.0325
+  std. dev.       0.4883   0.4883   0.4883
+  weight sum       10806    22341     6853
+  precision       2.9296   2.9296   2.9296
+
+sai
+  mean            0.1744   0.1252   0.1518
+  std. dev.       0.5342   0.4451   0.4938
+  weight sum       10806    22341     6853
+  precision       0.8017   0.8017   0.8017
+
+said
+  mean            0.2116   0.0677   0.1136
+  std. dev.       0.6689    0.362    0.476
+  weight sum       10806    22341     6853
+  precision       0.9377   0.9377   0.9377
+
+salad
+  mean            0.0771   0.1146   0.1627
+  std. dev.         0.45   0.5191   0.6426
+  weight sum       10806    22341     6853
+  precision       0.8854   0.8854   0.8854
+
+sale
+  mean            0.0673   0.0379   0.0385
+  std. dev.       0.5805   0.4262   0.4497
+  weight sum       10806    22341     6853
+  precision        2.253    2.253    2.253
+
+salti
+  mean             0.048    0.032   0.0907
+  std. dev.       0.4331   0.3457   0.5775
+  weight sum       10806    22341     6853
+  precision       1.7463   1.7463   1.7463
+
+sandwich
+  mean            0.0968    0.104   0.1337
+  std. dev.       0.5385   0.5487   0.6495
+  weight sum       10806    22341     6853
+  precision        0.915    0.915    0.915
+
+sat
+  mean            0.0908   0.0518   0.0792
+  std. dev.       0.5939   0.4415    0.545
+  weight sum       10806    22341     6853
+  precision        1.858    1.858    1.858
+
+saturdai
+  mean            0.0296   0.0334     0.04
+  std. dev.       0.3152   0.3152   0.3152
+  weight sum       10806    22341     6853
+  precision       1.8911   1.8911   1.8911
+
+sauc
+  mean            0.0848   0.1185   0.1858
+  std. dev.       0.4319   0.4966   0.6292
+  weight sum       10806    22341     6853
+  precision       0.9251   0.9251   0.9251
+
+save
+  mean            0.0582   0.0326   0.0326
+  std. dev.       0.3799   0.3799   0.3799
+  weight sum       10806    22341     6853
+  precision       2.2796   2.2796   2.2796
+
+saw
+  mean            0.0694    0.048   0.0637
+  std. dev.       0.4882   0.4036   0.4579
+  weight sum       10806    22341     6853
+  precision       1.6484   1.6484   1.6484
+
+seat
+  mean             0.101   0.1191   0.1584
+  std. dev.       0.4925   0.5159   0.6055
+  weight sum       10806    22341     6853
+  precision       1.0569   1.0569   1.0569
+
+second
+  mean            0.0906   0.0609   0.0751
+  std. dev.         0.53   0.4351   0.4805
+  weight sum       10806    22341     6853
+  precision       1.5218   1.5218   1.5218
+
+seen
+  mean            0.0698   0.0582   0.0524
+  std. dev.        0.526   0.4817   0.4567
+  weight sum       10806    22341     6853
+  precision       2.0167   2.0167   2.0167
+
+select
+  mean            0.0463   0.1189   0.1371
+  std. dev.       0.3343   0.5261   0.5636
+  weight sum       10806    22341     6853
+  precision       1.1278   1.1278   1.1278
+
+sell
+  mean            0.0707   0.0461   0.0414
+  std. dev.       0.5786   0.4564   0.4359
+  weight sum       10806    22341     6853
+  precision       2.2141   2.2141   2.2141
+
+sent
+  mean            0.0736   0.0233   0.0255
+  std. dev.       0.6152   0.4287   0.4287
+  weight sum       10806    22341     6853
+  precision       2.5721   2.5721   2.5721
+
+serv
+  mean            0.1212   0.1111   0.1609
+  std. dev.       0.5189     0.49   0.5884
+  weight sum       10806    22341     6853
+  precision       1.0386   1.0386   1.0386
+
+server
+  mean            0.1369   0.1001   0.1511
+  std. dev.       0.5769   0.4679   0.5838
+  weight sum       10806    22341     6853
+  precision       1.0629   1.0629   1.0629
+
+servic
+  mean            0.2443   0.2418   0.2672
+  std. dev.       0.4639   0.4318   0.4548
+  weight sum       10806    22341     6853
+  precision       0.3945   0.3945   0.3945
+
+set
+  mean            0.0464   0.0628   0.0672
+  std. dev.       0.3693   0.4276   0.4559
+  weight sum       10806    22341     6853
+  precision       1.3996   1.3996   1.3996
+
+sever
+  mean            0.0764   0.0677   0.0773
+  std. dev.       0.5219   0.4914   0.5268
+  weight sum       10806    22341     6853
+  precision       1.8147   1.8147   1.8147
+
+shop
+  mean            0.0684   0.1109   0.0954
+  std. dev.       0.4296   0.5384   0.5031
+  weight sum       10806    22341     6853
+  precision       1.1802   1.1802   1.1802
+
+short
+  mean            0.0571   0.0548   0.0573
+  std. dev.        0.429   0.4238   0.4381
+  weight sum       10806    22341     6853
+  precision       1.5829   1.5829   1.5829
+
+shrimp
+  mean            0.0583    0.078   0.0972
+  std. dev.       0.4458    0.492   0.5602
+  weight sum       10806    22341     6853
+  precision       1.3572   1.3572   1.3572
+
+sign
+  mean            0.0877   0.0509   0.0577
+  std. dev.       0.5638   0.4312   0.4591
+  weight sum       10806    22341     6853
+  precision       1.8305   1.8305   1.8305
+
+sinc
+  mean            0.1374   0.1385   0.1767
+  std. dev.       0.5951    0.598   0.6745
+  weight sum       10806    22341     6853
+  precision       1.3557   1.3557   1.3557
+
+sit
+  mean            0.1148   0.0775   0.1161
+  std. dev.       0.5625   0.4599   0.5661
+  weight sum       10806    22341     6853
+  precision       1.3151   1.3151   1.3151
+
+size
+  mean            0.0716   0.0873   0.1436
+  std. dev.        0.462   0.5013   0.6377
+  weight sum       10806    22341     6853
+  precision       1.3884   1.3884   1.3884
+
+slice
+  mean            0.0568   0.0488    0.072
+  std. dev.       0.4513   0.4056   0.4975
+  weight sum       10806    22341     6853
+  precision       1.4676   1.4676   1.4676
+
+slow
+  mean            0.1153   0.0444   0.1308
+  std. dev.       0.6325   0.3889   0.6681
+  weight sum       10806    22341     6853
+  precision       1.6818   1.6818   1.6818
+
+small
+  mean            0.1243   0.1131   0.1879
+  std. dev.       0.5148   0.4816   0.6265
+  weight sum       10806    22341     6853
+  precision       1.0076   1.0076   1.0076
+
+smell
+  mean            0.0894   0.0515   0.0581
+  std. dev.       0.6496   0.4965    0.526
+  weight sum       10806    22341     6853
+  precision       2.3689   2.3689   2.3689
+
+smoke
+  mean            0.0445   0.0437   0.0498
+  std. dev.       0.4152    0.403    0.425
+  weight sum       10806    22341     6853
+  precision       1.5653   1.5653   1.5653
+
+someon
+  mean            0.0701     0.03   0.0436
+  std. dev.       0.3788    0.291   0.2944
+  weight sum       10806    22341     6853
+  precision       1.7462   1.7462   1.7462
+
+someth
+  mean            0.1324   0.1196   0.1798
+  std. dev.       0.5978   0.5692   0.6899
+  weight sum       10806    22341     6853
+  precision       1.4112   1.4112   1.4112
+
+somewher
+  mean            0.0515   0.0143   0.0276
+  std. dev.       0.4932   0.4932   0.4932
+  weight sum       10806    22341     6853
+  precision       2.9592   2.9592   2.9592
+
+sorri
+  mean            0.0982   0.0231   0.0316
+  std. dev.       0.5905   0.2932   0.3379
+  weight sum       10806    22341     6853
+  precision       1.7594   1.7594   1.7594
+
+soup
+  mean            0.0654    0.081   0.1483
+  std. dev.       0.4606   0.4824   0.6478
+  weight sum       10806    22341     6853
+  precision       1.0045   1.0045   1.0045
+
+speak
+  mean            0.0634   0.0354    0.025
+  std. dev.       0.5213   0.3782   0.3283
+  weight sum       10806    22341     6853
+  precision       1.9698   1.9698   1.9698
+
+special
+  mean            0.0647   0.1091   0.1666
+  std. dev.       0.3674    0.472   0.5682
+  weight sum       10806    22341     6853
+  precision       0.9585   0.9585   0.9585
+
+spend
+  mean            0.0961   0.0501   0.0786
+  std. dev.       0.6391   0.4645   0.5793
+  weight sum       10806    22341     6853
+  precision       2.1729   2.1729   2.1729
+
+spent
+  mean            0.0493   0.0238   0.0227
+  std. dev.       0.4989   0.4989   0.4989
+  weight sum       10806    22341     6853
+  precision       2.9932   2.9932   2.9932
+
+spot
+  mean            0.0528   0.1496   0.1358
+  std. dev.       0.3943   0.6535   0.6227
+  weight sum       10806    22341     6853
+  precision       1.4817   1.4817   1.4817
+
+staff
+  mean            0.1233   0.1811    0.133
+  std. dev.       0.4386    0.509   0.4521
+  weight sum       10806    22341     6853
+  precision        0.749    0.749    0.749
+
+stai
+  mean             0.111   0.0807   0.0898
+  std. dev.        0.519   0.4505   0.4608
+  weight sum       10806    22341     6853
+  precision       1.0608   1.0608   1.0608
+
+stand
+  mean            0.0539   0.0278   0.0453
+  std. dev.         0.36    0.357    0.357
+  weight sum       10806    22341     6853
+  precision       2.1421   2.1421   2.1421
+
+star
+  mean             0.194   0.2473   0.3729
+  std. dev.       0.4229   0.4684   0.5757
+  weight sum       10806    22341     6853
+  precision       0.4034   0.4034   0.4034
+
+start
+  mean            0.0996   0.1075   0.0972
+  std. dev.       0.5174   0.5314   0.5118
+  weight sum       10806    22341     6853
+  precision       1.3142   1.3142   1.3142
+
+state
+  mean            0.0798   0.0306   0.0339
+  std. dev.       0.6017   0.3649   0.3803
+  weight sum       10806    22341     6853
+  precision       2.1504   2.1504   2.1504
+
+steak
+  mean            0.0733   0.1033   0.1146
+  std. dev.       0.5139   0.5956   0.6276
+  weight sum       10806    22341     6853
+  precision       0.9748   0.9748   0.9748
+
+stop
+  mean            0.0825   0.1298   0.1131
+  std. dev.       0.4834   0.6023   0.5633
+  weight sum       10806    22341     6853
+  precision       1.4512   1.4512   1.4512
+
+store
+  mean            0.1337   0.1037   0.1195
+  std. dev.       0.6461   0.5693     0.61
+  weight sum       10806    22341     6853
+  precision       0.9033   0.9033   0.9033
+
+street
+  mean            0.0706   0.0789   0.0829
+  std. dev.       0.4956   0.5249    0.539
+  weight sum       10806    22341     6853
+  precision       1.7695   1.7695   1.7695
+
+strip
+  mean             0.048      0.1   0.1173
+  std. dev.       0.3773   0.5349   0.5866
+  weight sum       10806    22341     6853
+  precision       1.3554   1.3554   1.3554
+
+stuff
+  mean             0.045    0.054   0.0742
+  std. dev.       0.3752   0.4081   0.4836
+  weight sum       10806    22341     6853
+  precision       1.4401   1.4401   1.4401
+
+suck
+  mean            0.1031   0.0176   0.0474
+  std. dev.        0.683   0.3813   0.4633
+  weight sum       10806    22341     6853
+  precision       2.2879   2.2879   2.2879
+
+super
+  mean            0.0574   0.1434   0.1143
+  std. dev.       0.3586   0.5622   0.5082
+  weight sum       10806    22341     6853
+  precision       1.0684   1.0684   1.0684
+
+suppos
+  mean            0.0549   0.0135   0.0392
+  std. dev.       0.4869   0.4869   0.4869
+  weight sum       10806    22341     6853
+  precision       2.9215   2.9215   2.9215
+
+sure
+  mean            0.1244   0.1624   0.1738
+  std. dev.       0.5163   0.5868   0.6045
+  weight sum       10806    22341     6853
+  precision       1.0769   1.0769   1.0769
+
+surpris
+  mean            0.0319   0.0442   0.0499
+  std. dev.       0.3543   0.3543   0.3543
+  weight sum       10806    22341     6853
+  precision       2.1255   2.1255   2.1255
+
+sushi
+  mean            0.0551   0.0965   0.1366
+  std. dev.       0.4568   0.5937   0.7044
+  weight sum       10806    22341     6853
+  precision       0.9298   0.9298   0.9298
+
+sweet
+  mean            0.0431   0.1168    0.128
+  std. dev.        0.325   0.5283   0.5599
+  weight sum       10806    22341     6853
+  precision       1.1064   1.1064   1.1064
+
+tabl
+  mean            0.1677   0.1087    0.185
+  std. dev.       0.6069    0.466   0.6239
+  weight sum       10806    22341     6853
+  precision       0.8395   0.8395   0.8395
+
+taco
+  mean             0.075   0.0974    0.098
+  std. dev.       0.5178   0.5981   0.6194
+  weight sum       10806    22341     6853
+  precision        0.931    0.931    0.931
+
+taken
+  mean            0.0486   0.0298   0.0295
+  std. dev.       0.5027   0.5027   0.5027
+  weight sum       10806    22341     6853
+  precision       3.0161   3.0161   3.0161
+
+talk
+  mean            0.1161   0.0674   0.0572
+  std. dev.       0.6306   0.4822   0.4459
+  weight sum       10806    22341     6853
+  precision       1.7564   1.7564   1.7564
+
+tast
+  mean            0.1504   0.1307   0.2343
+  std. dev.       0.5146   0.4604   0.6053
+  weight sum       10806    22341     6853
+  precision       0.7828   0.7828   0.7828
+
+tea
+  mean             0.051   0.0865   0.1281
+  std. dev.       0.4227   0.5602   0.6747
+  weight sum       10806    22341     6853
+  precision       0.9885   0.9885   0.9885
+
+tell
+  mean            0.1336   0.0613   0.0605
+  std. dev.        0.589   0.3948   0.3939
+  weight sum       10806    22341     6853
+  precision       1.2443   1.2443   1.2443
+
+terribl
+  mean             0.159   0.0118   0.0509
+  std. dev.       0.7641   0.2999   0.4393
+  weight sum       10806    22341     6853
+  precision       1.7993   1.7993   1.7993
+
+thank
+  mean            0.0723   0.1686   0.0389
+  std. dev.       0.4315     0.65   0.3188
+  weight sum       10806    22341     6853
+  precision        1.263    1.263    1.263
+
+thei
+  mean            0.3954   0.3044   0.3551
+  std. dev.        0.521   0.4564   0.4807
+  weight sum       10806    22341     6853
+  precision       0.2231   0.2231   0.2231
+
+thi
+  mean            0.3808   0.3403   0.3327
+  std. dev.       0.4581   0.4348   0.4336
+  weight sum       10806    22341     6853
+  precision       0.2477   0.2477   0.2477
+
+thing
+  mean            0.1383   0.1407   0.1827
+  std. dev.       0.5066   0.5103   0.5808
+  weight sum       10806    22341     6853
+  precision       0.9256   0.9256   0.9256
+
+think
+  mean            0.1671   0.1273   0.2357
+  std. dev.       0.5928   0.5237   0.6954
+  weight sum       10806    22341     6853
+  precision       1.0698   1.0698   1.0698
+
+thought
+  mean            0.1008   0.0822   0.1459
+  std. dev.       0.5616   0.5091   0.6735
+  weight sum       10806    22341     6853
+  precision       1.6154   1.6154   1.6154
+
+time
+  mean            0.2701   0.2707   0.2482
+  std. dev.       0.5048   0.4793   0.4753
+  weight sum       10806    22341     6853
+  precision        0.392    0.392    0.392
+
+tini
+  mean            0.0767   0.0328   0.0779
+  std. dev.       0.6199   0.4238   0.6247
+  weight sum       10806    22341     6853
+  precision       2.5429   2.5429   2.5429
+
+tip
+  mean            0.0957   0.0519   0.0869
+  std. dev.       0.5607   0.3966   0.5311
+  weight sum       10806    22341     6853
+  precision       1.4819   1.4819   1.4819
+
+tire
+  mean             0.055   0.0368   0.0234
+  std. dev.        0.545   0.4712   0.3337
+  weight sum       10806    22341     6853
+  precision       2.0019   2.0019   2.0019
+
+todai
+  mean            0.1062   0.0825   0.0629
+  std. dev.       0.5944   0.5258   0.4604
+  weight sum       10806    22341     6853
+  precision       1.7051   1.7051   1.7051
+
+told
+  mean            0.2632   0.0549   0.0805
+  std. dev.       0.8557   0.3881   0.4745
+  weight sum       10806    22341     6853
+  precision       1.3364   1.3364   1.3364
+
+took
+  mean            0.1904   0.1083   0.1236
+  std. dev.       0.6678   0.5052   0.5393
+  weight sum       10806    22341     6853
+  precision       1.1712   1.1712   1.1712
+
+total
+  mean            0.0963   0.0749   0.0629
+  std. dev.       0.5383   0.4713   0.4296
+  weight sum       10806    22341     6853
+  precision       1.4673   1.4673   1.4673
+
+town
+  mean            0.0536   0.1127   0.0699
+  std. dev.       0.4205    0.605   0.4789
+  weight sum       10806    22341     6853
+  precision       1.6751   1.6751   1.6751
+
+treat
+  mean            0.0458   0.0449   0.0186
+  std. dev.       0.3729   0.3729   0.3729
+  weight sum       10806    22341     6853
+  precision       2.2372   2.2372   2.2372
+
+tri
+  mean            0.1136   0.1236   0.1377
+  std. dev.       0.5286   0.5496   0.5783
+  weight sum       10806    22341     6853
+  precision       1.2149   1.2149   1.2149
+
+trip
+  mean             0.049   0.0786   0.0606
+  std. dev.        0.417    0.523   0.4601
+  weight sum       10806    22341     6853
+  precision       1.7759   1.7759   1.7759
+
+try
+  mean            0.1369   0.2022   0.2396
+  std. dev.       0.4597   0.5514   0.5962
+  weight sum       10806    22341     6853
+  precision        0.773    0.773    0.773
+
+turn
+  mean             0.104   0.0547   0.0763
+  std. dev.       0.6095   0.4429   0.5237
+  weight sum       10806    22341     6853
+  precision       1.8159   1.8159   1.8159
+
+twice
+  mean            0.0731   0.0402   0.0491
+  std. dev.       0.5605   0.5605   0.5605
+  weight sum       10806    22341     6853
+  precision       3.3632   3.3632   3.3632
+
+type
+  mean            0.0524   0.0663   0.0804
+  std. dev.       0.4401   0.4951   0.5432
+  weight sum       10806    22341     6853
+  precision       1.8748   1.8748   1.8748
+
+u
+  mean            0.2365   0.1595   0.1751
+  std. dev.       0.6666   0.5346   0.5648
+  weight sum       10806    22341     6853
+  precision       0.6685   0.6685   0.6685
+
+understand
+  mean            0.0934   0.0393   0.0635
+  std. dev.       0.6012   0.3851   0.4959
+  weight sum       10806    22341     6853
+  precision       1.8832   1.8832   1.8832
+
+unfortun
+  mean            0.0784   0.0301   0.0963
+  std. dev.       0.5833   0.3667   0.6439
+  weight sum       10806    22341     6853
+  precision       2.2004   2.2004   2.2004
+
+unless
+  mean            0.0518    0.017   0.0426
+  std. dev.       0.4912   0.4912   0.4912
+  weight sum       10806    22341     6853
+  precision       2.9473   2.9473   2.9473
+
+unprofession
+  mean            0.0441    0.001    0.004
+  std. dev.       0.5096   0.5096   0.5096
+  weight sum       10806    22341     6853
+  precision       3.0575   3.0575   3.0575
+
+updat
+  mean            0.0758   0.0664   0.0763
+  std. dev.       0.6187   0.5788   0.6263
+  weight sum       10806    22341     6853
+  precision       2.5515   2.5515   2.5515
+
+usual
+  mean            0.0551   0.0954   0.1304
+  std. dev.       0.3892   0.5144   0.5984
+  weight sum       10806    22341     6853
+  precision       1.3341   1.3341   1.3341
+
+vega
+  mean             0.071   0.1826   0.1317
+  std. dev.       0.3789   0.6118   0.5183
+  weight sum       10806    22341     6853
+  precision       0.9631   0.9631   0.9631
+
+veri
+  mean            0.2144   0.3456   0.3318
+  std. dev.       0.5094   0.6238   0.6166
+  weight sum       10806    22341     6853
+  precision       0.4196   0.4196   0.4196
+
+visit
+  mean            0.0792   0.1482   0.1178
+  std. dev.       0.3961   0.5241     0.47
+  weight sum       10806    22341     6853
+  precision       0.8882   0.8882   0.8882
+
+wa
+  mean            0.3914   0.3408   0.4929
+  std. dev.       0.4022    0.392   0.4277
+  weight sum       10806    22341     6853
+  precision       0.1283   0.1283   0.1283
+
+wai
+  mean            0.1964   0.1567   0.1829
+  std. dev.       0.6201   0.5555    0.599
+  weight sum       10806    22341     6853
+  precision       1.0069   1.0069   1.0069
+
+wait
+  mean            0.2833   0.1481   0.1729
+  std. dev.        0.695   0.4859   0.5374
+  weight sum       10806    22341     6853
+  precision       0.6814   0.6814   0.6814
+
+waiter
+  mean            0.0844   0.0505   0.0778
+  std. dev.        0.528   0.3804   0.4751
+  weight sum       10806    22341     6853
+  precision       1.3735   1.3735   1.3735
+
+waitress
+  mean            0.1144   0.0555   0.1018
+  std. dev.       0.5728   0.3781   0.5237
+  weight sum       10806    22341     6853
+  precision       1.2644   1.2644   1.2644
+
+walk
+  mean            0.1453   0.1127   0.1104
+  std. dev.       0.5618   0.4984    0.492
+  weight sum       10806    22341     6853
+  precision       1.0448   1.0448   1.0448
+
+want
+  mean            0.2388   0.1815   0.2196
+  std. dev.       0.6483   0.5643   0.6195
+  weight sum       10806    22341     6853
+  precision       0.9018   0.9018   0.9018
+
+warm
+  mean             0.052   0.0701   0.0736
+  std. dev.       0.4386   0.5073   0.5188
+  weight sum       10806    22341     6853
+  precision       1.8668   1.8668   1.8668
+
+wash
+  mean            0.0639   0.0359   0.0325
+  std. dev.       0.5545   0.4211   0.3779
+  weight sum       10806    22341     6853
+  precision       1.7948   1.7948   1.7948
+
+wast
+  mean            0.0941   0.0083   0.0154
+  std. dev.       0.4794    0.367    0.367
+  weight sum       10806    22341     6853
+  precision       2.2017   2.2017   2.2017
+
+watch
+  mean            0.0693   0.0693   0.0752
+  std. dev.       0.4684   0.4685    0.481
+  weight sum       10806    22341     6853
+  precision       1.4767   1.4767   1.4767
+
+water
+  mean            0.1228   0.0755   0.0811
+  std. dev.       0.5884   0.4481   0.4629
+  weight sum       10806    22341     6853
+  precision       1.2181   1.2181   1.2181
+
+week
+  mean            0.1252   0.1065   0.0777
+  std. dev.       0.6296     0.57   0.4871
+  weight sum       10806    22341     6853
+  precision        1.484    1.484    1.484
+
+went
+  mean            0.1904    0.148   0.1658
+  std. dev.       0.6293    0.558   0.5817
+  weight sum       10806    22341     6853
+  precision       1.0488   1.0488   1.0488
+
+wife
+  mean            0.0687   0.0734   0.0551
+  std. dev.       0.5049   0.5165   0.4488
+  weight sum       10806    22341     6853
+  precision       1.8419   1.8419   1.8419
+
+window
+  mean            0.0504   0.0334   0.0286
+  std. dev.       0.4472   0.4472   0.4472
+  weight sum       10806    22341     6853
+  precision        2.683    2.683    2.683
+
+wing
+  mean            0.0659   0.0656   0.0986
+  std. dev.       0.5303   0.5168   0.6332
+  weight sum       10806    22341     6853
+  precision       1.0988   1.0988   1.0988
+
+wish
+  mean            0.0582   0.0962    0.096
+  std. dev.       0.4412   0.5646   0.5645
+  weight sum       10806    22341     6853
+  precision       1.7005   1.7005   1.7005
+
+wo
+  mean            0.1838   0.0661   0.0913
+  std. dev.       0.7436   0.4536   0.5309
+  weight sum       10806    22341     6853
+  precision       1.5887   1.5887   1.5887
+
+word
+  mean            0.0637   0.0765   0.0296
+  std. dev.       0.4528   0.5011   0.3187
+  weight sum       10806    22341     6853
+  precision       1.6125   1.6125   1.6125
+
+work
+  mean            0.1551   0.1489   0.1145
+  std. dev.       0.5178   0.5077   0.4371
+  weight sum       10806    22341     6853
+  precision        0.814    0.814    0.814
+
+wors
+  mean            0.0541   0.0049   0.0202
+  std. dev.       0.4917   0.4917   0.4917
+  weight sum       10806    22341     6853
+  precision       2.9503   2.9503   2.9503
+
+worst
+  mean            0.1999   0.0082     0.04
+  std. dev.       0.8707   0.3313   0.3969
+  weight sum       10806    22341     6853
+  precision       1.9877   1.9877   1.9877
+
+worth
+  mean            0.1055   0.1451   0.1345
+  std. dev.       0.4514   0.5279   0.5155
+  weight sum       10806    22341     6853
+  precision       0.9776   0.9776   0.9776
+
+write
+  mean            0.0453   0.0242   0.0284
+  std. dev.       0.5066   0.5066   0.5066
+  weight sum       10806    22341     6853
+  precision       3.0399   3.0399   3.0399
+
+wrong
+  mean            0.1164   0.0567    0.082
+  std. dev.       0.6003   0.4118    0.497
+  weight sum       10806    22341     6853
+  precision       1.4826   1.4826   1.4826
+
+ye
+  mean            0.0625   0.0873   0.0683
+  std. dev.       0.4377   0.5154   0.4576
+  weight sum       10806    22341     6853
+  precision       1.4818   1.4818   1.4818
+
+year
+  mean            0.1142   0.1303   0.0768
+  std. dev.       0.4887   0.5214   0.3976
+  weight sum       10806    22341     6853
+  precision       0.8937   0.8937   0.8937
+
+yelp
+  mean            0.0623   0.0689   0.0626
+  std. dev.       0.4303   0.4363   0.4146
+  weight sum       10806    22341     6853
+  precision       1.3441   1.3441   1.3441
+
+zero
+  mean            0.0748   0.0055   0.0146
+  std. dev.       0.5801   0.3624   0.3624
+  weight sum       10806    22341     6853
+  precision       2.1742   2.1742   2.1742
+
+abov
+  mean            0.0367   0.0695   0.0672
+  std. dev.       0.4021   0.5464   0.5392
+  weight sum       10806    22341     6853
+  precision       2.1819   2.1819   2.1819
+
+accommod
+  mean            0.0225   0.0634   0.0339
+  std. dev.       0.3726   0.5288    0.388
+  weight sum       10806    22341     6853
+  precision       2.2355   2.2355   2.2355
+
+ad
+  mean            0.0547    0.066   0.0749
+  std. dev.       0.4712   0.5155   0.5473
+  weight sum       10806    22341     6853
+  precision       2.0371   2.0371   2.0371
+
+add
+  mean            0.0503   0.0728   0.0881
+  std. dev.       0.4419   0.5309   0.5838
+  weight sum       10806    22341     6853
+  precision       1.9676   1.9676   1.9676
+
+amaz
+  mean            0.0268   0.2505   0.0888
+  std. dev.       0.2405   0.7155   0.4337
+  weight sum       10806    22341     6853
+  precision       1.0337   1.0337   1.0337
+
+ambianc
+  mean            0.0124   0.0336   0.0437
+  std. dev.       0.3372   0.3372   0.3372
+  weight sum       10806    22341     6853
+  precision       2.0231   2.0231   2.0231
+
+appreci
+  mean            0.0129   0.0341   0.0342
+  std. dev.       0.3686   0.3686   0.3686
+  weight sum       10806    22341     6853
+  precision       2.2114   2.2114   2.2114
+
+authent
+  mean            0.0306   0.0754   0.0536
+  std. dev.       0.3623   0.5643   0.4756
+  weight sum       10806    22341     6853
+  precision       2.1362   2.1362   2.1362
+
+awesom
+  mean            0.0257   0.1964   0.0703
+  std. dev.       0.2539   0.6881   0.4208
+  weight sum       10806    22341     6853
+  precision       1.2252   1.2252   1.2252
+
+base
+  mean            0.0475   0.0585   0.0879
+  std. dev.       0.4113   0.4611   0.5583
+  weight sum       10806    22341     6853
+  precision       1.7412   1.7412   1.7412
+
+bbq
+  mean             0.032   0.0572   0.0682
+  std. dev.       0.3273   0.4502    0.488
+  weight sum       10806    22341     6853
+  precision       1.3992   1.3992   1.3992
+
+beat
+  mean            0.0078   0.0439   0.0257
+  std. dev.       0.4261   0.4261   0.4261
+  weight sum       10806    22341     6853
+  precision       2.5564   2.5564   2.5564
+
+beauti
+  mean             0.022   0.1269   0.0557
+  std. dev.       0.2791   0.6448   0.4283
+  weight sum       10806    22341     6853
+  precision       1.6744   1.6744   1.6744
+
+bite
+  mean            0.0512   0.0737   0.0902
+  std. dev.       0.4477    0.535   0.5923
+  weight sum       10806    22341     6853
+  precision        1.962    1.962    1.962
+
+brunch
+  mean            0.0181   0.0534   0.0631
+  std. dev.       0.2698   0.4582   0.4879
+  weight sum       10806    22341     6853
+  precision       1.6186   1.6186   1.6186
+
+butter
+  mean            0.0203   0.0421   0.0426
+  std. dev.       0.4467   0.4467   0.4467
+  weight sum       10806    22341     6853
+  precision       2.6804   2.6804   2.6804
+
+cake
+  mean            0.0313   0.0799   0.0924
+  std. dev.       0.3644   0.5777   0.6182
+  weight sum       10806    22341     6853
+  precision       1.1494   1.1494   1.1494
+
+casino
+  mean            0.0329   0.0499   0.0664
+  std. dev.       0.3507   0.4402   0.5167
+  weight sum       10806    22341     6853
+  precision       1.6311   1.6311   1.6311
+
+chef
+  mean            0.0361   0.0639   0.0513
+  std. dev.       0.3834   0.5104    0.463
+  weight sum       10806    22341     6853
+  precision       1.9021   1.9021   1.9021
+
+chocol
+  mean            0.0262   0.0713   0.0695
+  std. dev.       0.3145   0.5037   0.5218
+  weight sum       10806    22341     6853
+  precision       1.2311   1.2311   1.2311
+
+choos
+  mean            0.0263    0.067   0.0725
+  std. dev.       0.3044    0.482   0.5083
+  weight sum       10806    22341     6853
+  precision       1.7126   1.7126   1.7126
+
+citi
+  mean            0.0257   0.0599   0.0558
+  std. dev.       0.3077   0.4659   0.4564
+  weight sum       10806    22341     6853
+  precision       1.7229   1.7229   1.7229
+
+class
+  mean            0.0214   0.0415   0.0189
+  std. dev.       0.3282   0.4553   0.2985
+  weight sum       10806    22341     6853
+  precision       1.5416   1.5416   1.5416
+
+cocktail
+  mean            0.0253   0.0596   0.0461
+  std. dev.        0.306   0.4706   0.4183
+  weight sum       10806    22341     6853
+  precision       1.6802   1.6802   1.6802
+
+comfort
+  mean            0.0224   0.0927   0.0673
+  std. dev.       0.3151    0.585   0.4999
+  weight sum       10806    22341     6853
+  precision       1.8904   1.8904   1.8904
+
+compar
+  mean            0.0261   0.0378   0.0675
+  std. dev.       0.3953   0.3953   0.4047
+  weight sum       10806    22341     6853
+  precision        2.372    2.372    2.372
+
+consist
+  mean            0.0378   0.0532   0.0704
+  std. dev.       0.3737   0.4379   0.5095
+  weight sum       10806    22341     6853
+  precision       1.7993   1.7993   1.7993
+
+conveni
+  mean             0.036    0.058   0.0808
+  std. dev.       0.3872    0.489   0.5777
+  weight sum       10806    22341     6853
+  precision       2.0819   2.0819   2.0819
+
+cooki
+  mean            0.0141   0.0434   0.0454
+  std. dev.       0.2756   0.4346   0.4594
+  weight sum       10806    22341     6853
+  precision       1.6539   1.6539   1.6539
+
+crab
+  mean            0.0334    0.068   0.0754
+  std. dev.       0.3751   0.5398    0.561
+  weight sum       10806    22341     6853
+  precision       1.2046   1.2046   1.2046
+
+crave
+  mean            0.0187   0.0579   0.0891
+  std. dev.       0.3437   0.4858   0.5996
+  weight sum       10806    22341     6853
+  precision       2.0625   2.0625   2.0625
+
+crispi
+  mean            0.0257   0.0662   0.0909
+  std. dev.        0.307   0.4801   0.5725
+  weight sum       10806    22341     6853
+  precision       1.6925   1.6925   1.6925
+
+crowd
+  mean            0.0239   0.0454   0.0674
+  std. dev.       0.3077   0.3077   0.3907
+  weight sum       10806    22341     6853
+  precision       1.8463   1.8463   1.8463
+
+crust
+  mean            0.0323   0.0515   0.0626
+  std. dev.       0.3645   0.4554   0.5039
+  weight sum       10806    22341     6853
+  precision        1.856    1.856    1.856
+
+curri
+  mean            0.0202   0.0434   0.0723
+  std. dev.       0.3126   0.4249   0.5743
+  weight sum       10806    22341     6853
+  precision       1.4535   1.4535   1.4535
+
+cute
+  mean            0.0195   0.0605   0.0809
+  std. dev.       0.3436   0.4959   0.5735
+  weight sum       10806    22341     6853
+  precision       2.0615   2.0615   2.0615
+
+danc
+  mean            0.0245   0.0395   0.0494
+  std. dev.       0.3059   0.3905   0.4423
+  weight sum       10806    22341     6853
+  precision       1.5472   1.5472   1.5472
+
+date
+  mean             0.028   0.0603   0.0508
+  std. dev.       0.3311   0.4748   0.4389
+  weight sum       10806    22341     6853
+  precision       1.8333   1.8333   1.8333
+
+delici
+  mean             0.025   0.2232   0.1177
+  std. dev.       0.2189   0.6357   0.4671
+  weight sum       10806    22341     6853
+  precision       0.9357   0.9357   0.9357
+
+downtown
+  mean            0.0204   0.0546   0.0515
+  std. dev.       0.3288   0.4742   0.4647
+  weight sum       10806    22341     6853
+  precision       1.9727   1.9727   1.9727
+
+dress
+  mean            0.0436   0.0482   0.0609
+  std. dev.       0.4172   0.4421   0.5005
+  weight sum       10806    22341     6853
+  precision        1.783    1.783    1.783
+
+earli
+  mean            0.0435   0.0695    0.073
+  std. dev.       0.4181   0.5262   0.5379
+  weight sum       10806    22341     6853
+  precision       2.0176   2.0176   2.0176
+
+easi
+  mean            0.0293   0.0897   0.0749
+  std. dev.       0.3332   0.5759   0.5288
+  weight sum       10806    22341     6853
+  precision       1.8938   1.8938   1.8938
+
+entre
+  mean             0.035   0.0498   0.0685
+  std. dev.       0.3757   0.4427   0.5158
+  weight sum       10806    22341     6853
+  precision       1.8469   1.8469   1.8469
+
+excel
+  mean            0.0191   0.1405    0.064
+  std. dev.       0.2014   0.5432   0.3736
+  weight sum       10806    22341     6853
+  precision       1.0346   1.0346   1.0346
+
+fan
+  mean            0.0301   0.0843   0.0994
+  std. dev.       0.3369   0.5575   0.6036
+  weight sum       10806    22341     6853
+  precision       1.8822   1.8822   1.8822
+
+fantast
+  mean            0.0066   0.0671   0.0245
+  std. dev.       0.3047   0.3678   0.3047
+  weight sum       10806    22341     6853
+  precision       1.8284   1.8284   1.8284
+
+favorit
+  mean            0.0267   0.1678   0.0772
+  std. dev.       0.2887   0.7058   0.4858
+  weight sum       10806    22341     6853
+  precision       1.5605   1.5605   1.5605
+
+flavour
+  mean            0.0209   0.0479   0.1048
+  std. dev.        0.276   0.4149   0.6117
+  weight sum       10806    22341     6853
+  precision       1.5583   1.5583   1.5583
+
+french
+  mean            0.0385   0.0596   0.0569
+  std. dev.       0.3896   0.4865   0.4784
+  weight sum       10806    22341     6853
+  precision       1.8146   1.8146   1.8146
+
+fun
+  mean            0.0297   0.1132   0.0816
+  std. dev.       0.2819   0.5623   0.4777
+  weight sum       10806    22341     6853
+  precision       1.2848   1.2848   1.2848
+
+garlic
+  mean            0.0219   0.0475   0.0554
+  std. dev.       0.2876   0.3953   0.4386
+  weight sum       10806    22341     6853
+  precision       1.4546   1.4546   1.4546
+
+gem
+  mean            0.0015   0.0382   0.0062
+  std. dev.       0.4444   0.4444   0.4444
+  weight sum       10806    22341     6853
+  precision       2.6661   2.6661   2.6661
+
+glad
+  mean            0.0097   0.0378   0.0244
+  std. dev.        0.357    0.357    0.357
+  weight sum       10806    22341     6853
+  precision       2.1421   2.1421   2.1421
+
+highli
+  mean            0.0244   0.1613   0.0273
+  std. dev.       0.2844   0.7163   0.3006
+  weight sum       10806    22341     6853
+  precision       1.6695   1.6695   1.6695
+
+hit
+  mean            0.0254   0.0429   0.0477
+  std. dev.       0.3408   0.3408   0.3408
+  weight sum       10806    22341     6853
+  precision       2.0447   2.0447   2.0447
+
+ingredi
+  mean            0.0322   0.0574   0.0644
+  std. dev.       0.3683   0.4914   0.5189
+  weight sum       10806    22341     6853
+  precision       2.1223   2.1223   2.1223
+
+italian
+  mean            0.0284   0.0517   0.0412
+  std. dev.       0.3421   0.4655   0.4129
+  weight sum       10806    22341     6853
+  precision       1.7667   1.7667   1.7667
+
+joint
+  mean            0.0368   0.0551   0.0731
+  std. dev.       0.3642   0.4504   0.5227
+  weight sum       10806    22341     6853
+  precision       1.7898   1.7898   1.7898
+
+knowledg
+  mean            0.0065   0.0426   0.0127
+  std. dev.       0.3459   0.3459   0.3459
+  weight sum       10806    22341     6853
+  precision       2.0757   2.0757   2.0757
+
+level
+  mean            0.0306   0.0534   0.0585
+  std. dev.       0.3462   0.4561   0.4729
+  weight sum       10806    22341     6853
+  precision       1.8391   1.8391   1.8391
+
+lobster
+  mean             0.025    0.039   0.0596
+  std. dev.       0.3299   0.3901   0.5044
+  weight sum       10806    22341     6853
+  precision       1.4856   1.4856   1.4856
+
+local
+  mean             0.041   0.0867   0.0729
+  std. dev.        0.371   0.5428   0.5046
+  weight sum       10806    22341     6853
+  precision       1.6209   1.6209   1.6209
+
+lol
+  mean            0.0373   0.0552   0.0554
+  std. dev.       0.3892   0.4676   0.4692
+  weight sum       10806    22341     6853
+  precision       1.9555   1.9555   1.9555
+
+main
+  mean             0.035   0.0563   0.0817
+  std. dev.        0.361   0.4505   0.5375
+  weight sum       10806    22341     6853
+  precision       1.7599   1.7599   1.7599
+
+massag
+  mean            0.0274   0.0551   0.0258
+  std. dev.       0.4073   0.5434    0.388
+  weight sum       10806    22341     6853
+  precision       1.4354   1.4354   1.4354
+
+mexican
+  mean            0.0337   0.0479   0.0515
+  std. dev.        0.341   0.4135   0.4346
+  weight sum       10806    22341     6853
+  precision       1.4754   1.4754   1.4754
+
+milk
+  mean              0.02   0.0398   0.0543
+  std. dev.       0.2732   0.4027   0.4699
+  weight sum       10806    22341     6853
+  precision       1.5443   1.5443   1.5443
+
+mind
+  mean            0.0285   0.0335   0.0414
+  std. dev.       0.3402   0.3402   0.3402
+  weight sum       10806    22341     6853
+  precision       2.0409   2.0409   2.0409
+
+mix
+  mean            0.0429   0.0725   0.1195
+  std. dev.       0.4027   0.5217   0.6681
+  weight sum       10806    22341     6853
+  precision       1.9138   1.9138   1.9138
+
+outstand
+  mean            0.0095   0.0639   0.0274
+  std. dev.       0.3721   0.5308   0.3721
+  weight sum       10806    22341     6853
+  precision       2.2326   2.2326   2.2326
+
+pack
+  mean            0.0358   0.0674   0.0935
+  std. dev.       0.3527   0.4757   0.5572
+  weight sum       10806    22341     6853
+  precision       1.6682   1.6682   1.6682
+
+pasta
+  mean            0.0394   0.0477   0.0707
+  std. dev.       0.4002   0.4371   0.5424
+  weight sum       10806    22341     6853
+  precision       1.6828   1.6828   1.6828
+
+patio
+  mean            0.0265   0.0607   0.0739
+  std. dev.       0.3037   0.4416   0.4913
+  weight sum       10806    22341     6853
+  precision       1.5159   1.5159   1.5159
+
+perfect
+  mean            0.0171   0.1689   0.0638
+  std. dev.       0.2189   0.6699    0.411
+  weight sum       10806    22341     6853
+  precision       1.3137   1.3137   1.3137
+
+perfectli
+  mean            0.0129   0.0864    0.051
+  std. dev.       0.3424   0.5899   0.4548
+  weight sum       10806    22341     6853
+  precision       2.0545   2.0545   2.0545
+
+pho
+  mean            0.0304   0.0466   0.0762
+  std. dev.       0.4055   0.5057   0.6326
+  weight sum       10806    22341     6853
+  precision       1.2923   1.2923   1.2923
+
+pleasant
+  mean             0.016   0.0399   0.0346
+  std. dev.        0.425    0.425    0.425
+  weight sum       10806    22341     6853
+  precision       2.5499   2.5499   2.5499
+
+plenti
+  mean            0.0396   0.0856   0.0781
+  std. dev.       0.3871    0.566   0.5406
+  weight sum       10806    22341     6853
+  precision       1.9109   1.9109   1.9109
+
+pool
+  mean            0.0355   0.0567   0.0601
+  std. dev.       0.4017   0.4881   0.4917
+  weight sum       10806    22341     6853
+  precision       1.1627   1.1627   1.1627
+
+prepar
+  mean            0.0409   0.0695   0.0681
+  std. dev.       0.4052   0.5275   0.5209
+  weight sum       10806    22341     6853
+  precision       2.0277   2.0277   2.0277
+
+pricei
+  mean            0.0173   0.0383   0.0574
+  std. dev.       0.3999   0.3999   0.3999
+  weight sum       10806    22341     6853
+  precision       2.3994   2.3994   2.3994
+
+profession
+  mean            0.0319    0.098   0.0257
+  std. dev.       0.3332   0.5752   0.2957
+  weight sum       10806    22341     6853
+  precision       1.6645   1.6645   1.6645
+
+question
+  mean            0.0521   0.0592   0.0425
+  std. dev.       0.4611   0.4859   0.4085
+  weight sum       10806    22341     6853
+  precision       1.9279   1.9279   1.9279
+
+quick
+  mean            0.0356   0.1145   0.1385
+  std. dev.        0.321   0.5685   0.6311
+  weight sum       10806    22341     6853
+  precision       1.4099   1.4099   1.4099
+
+quickli
+  mean            0.0196   0.0435   0.0497
+  std. dev.       0.3971   0.3971   0.3971
+  weight sum       10806    22341     6853
+  precision       2.3824   2.3824   2.3824
+
+ramen
+  mean            0.0209     0.04   0.0764
+  std. dev.       0.3375   0.4963   0.6782
+  weight sum       10806    22341     6853
+  precision       1.3917   1.3917   1.3917
+
+relax
+  mean            0.0133     0.07   0.0375
+  std. dev.       0.3632   0.5492   0.4027
+  weight sum       10806    22341     6853
+  precision       2.1793   2.1793   2.1793
+
+rememb
+  mean            0.0385   0.0741   0.0769
+  std. dev.       0.3888   0.5372   0.5499
+  weight sum       10806    22341     6853
+  precision       1.9817   1.9817   1.9817
+
+rock
+  mean            0.0298   0.0543   0.0377
+  std. dev.       0.3506   0.4849   0.3989
+  weight sum       10806    22341     6853
+  precision       1.9893   1.9893   1.9893
+
+salmon
+  mean            0.0223   0.0463   0.0708
+  std. dev.        0.299    0.406   0.5227
+  weight sum       10806    22341     6853
+  precision        1.322    1.322    1.322
+
+salsa
+  mean            0.0322   0.0412   0.0479
+  std. dev.       0.3364   0.3838   0.4496
+  weight sum       10806    22341     6853
+  precision       1.5332   1.5332   1.5332
+
+satisfi
+  mean            0.0112   0.0472   0.0397
+  std. dev.       0.4196   0.4196   0.4196
+  weight sum       10806    22341     6853
+  precision       2.5174   2.5174   2.5174
+
+seafood
+  mean            0.0258   0.0534   0.0719
+  std. dev.       0.3222   0.4595   0.5406
+  weight sum       10806    22341     6853
+  precision       1.8248   1.8248   1.8248
+
+season
+  mean            0.0497    0.069   0.0892
+  std. dev.       0.4448   0.5206   0.5937
+  weight sum       10806    22341     6853
+  precision       1.9911   1.9911   1.9911
+
+share
+  mean            0.0149   0.0505   0.0549
+  std. dev.       0.3076   0.3286   0.3553
+  weight sum       10806    22341     6853
+  precision       1.8456   1.8456   1.8456
+
+shot
+  mean            0.0317   0.0464   0.0443
+  std. dev.       0.3612   0.4423   0.4158
+  weight sum       10806    22341     6853
+  precision        1.785    1.785    1.785
+
+simpl
+  mean            0.0471   0.0541   0.0658
+  std. dev.        0.418   0.4507    0.494
+  weight sum       10806    22341     6853
+  precision       1.8109   1.8109   1.8109
+
+soft
+  mean            0.0194   0.0499   0.0603
+  std. dev.        0.267   0.4084   0.4522
+  weight sum       10806    22341     6853
+  precision       1.6017   1.6017   1.6017
+
+sometim
+  mean            0.0221   0.0529   0.0679
+  std. dev.       0.2905   0.4396   0.4976
+  weight sum       10806    22341     6853
+  precision        1.743    1.743    1.743
+
+soon
+  mean            0.0285   0.0477   0.0347
+  std. dev.       0.4176   0.4176   0.4176
+  weight sum       10806    22341     6853
+  precision       2.5055   2.5055   2.5055
+
+space
+  mean            0.0306   0.0703   0.0891
+  std. dev.       0.3488   0.5252   0.5877
+  weight sum       10806    22341     6853
+  precision       1.9826   1.9826   1.9826
+
+spici
+  mean            0.0308   0.0833   0.1022
+  std. dev.       0.3058   0.4956    0.549
+  weight sum       10806    22341     6853
+  precision       1.2262   1.2262   1.2262
+
+style
+  mean            0.0277   0.0833    0.107
+  std. dev.       0.3053    0.525    0.592
+  weight sum       10806    22341     6853
+  precision       1.5837   1.5837   1.5837
+
+suggest
+  mean            0.0491   0.0727   0.0657
+  std. dev.       0.4419   0.5362     0.51
+  weight sum       10806    22341     6853
+  precision       2.0113   2.0113   2.0113
+
+sundai
+  mean            0.0512   0.0781   0.0756
+  std. dev.       0.4501   0.5503   0.5424
+  weight sum       10806    22341     6853
+  precision        1.962    1.962    1.962
+
+tasti
+  mean            0.0338   0.1293   0.1698
+  std. dev.       0.3031   0.5842   0.6678
+  weight sum       10806    22341     6853
+  precision       1.3265   1.3265   1.3265
+
+team
+  mean            0.0161   0.0583   0.0124
+  std. dev.       0.3824   0.5209   0.3824
+  weight sum       10806    22341     6853
+  precision       2.2945   2.2945   2.2945
+
+tender
+  mean            0.0235   0.0634   0.0777
+  std. dev.       0.3285   0.4976    0.555
+  weight sum       10806    22341     6853
+  precision        1.971    1.971    1.971
+
+thai
+  mean            0.0296   0.0575   0.0788
+  std. dev.       0.3749   0.5059   0.6098
+  weight sum       10806    22341     6853
+  precision        1.317    1.317    1.317
+
+toast
+  mean            0.0285   0.0601   0.0694
+  std. dev.       0.3378   0.4842   0.5309
+  weight sum       10806    22341     6853
+  precision       1.7889   1.7889   1.7889
+
+uniqu
+  mean            0.0067   0.0436   0.0427
+  std. dev.       0.4001   0.4001   0.4001
+  weight sum       10806    22341     6853
+  precision       2.4005   2.4005   2.4005
+
+valu
+  mean            0.0272   0.0405   0.0451
+  std. dev.       0.4053   0.4053   0.4053
+  weight sum       10806    22341     6853
+  precision       2.4318   2.4318   2.4318
+
+varieti
+  mean            0.0243   0.0874   0.1116
+  std. dev.       0.3078   0.5618   0.6322
+  weight sum       10806    22341     6853
+  precision       1.8469   1.8469   1.8469
+
+veggi
+  mean            0.0298   0.0477   0.0727
+  std. dev.       0.3045   0.3886   0.4701
+  weight sum       10806    22341     6853
+  precision        1.411    1.411    1.411
+
+vibe
+  mean            0.0131   0.0384   0.0417
+  std. dev.       0.4449   0.4449   0.4449
+  weight sum       10806    22341     6853
+  precision       2.6697   2.6697   2.6697
+
+view
+  mean            0.0284   0.0724   0.0754
+  std. dev.       0.3201   0.5193   0.5353
+  weight sum       10806    22341     6853
+  precision       1.7048   1.7048   1.7048
+
+weekend
+  mean            0.0411   0.0744    0.068
+  std. dev.       0.3787   0.5077   0.4851
+  weight sum       10806    22341     6853
+  precision       1.6825   1.6825   1.6825
+
+welcom
+  mean              0.03   0.0812   0.0342
+  std. dev.       0.3547   0.5775   0.3766
+  weight sum       10806    22341     6853
+  precision       2.0914   2.0914   2.0914
+
+white
+  mean            0.0447   0.0602   0.0658
+  std. dev.       0.4115    0.472   0.4928
+  weight sum       10806    22341     6853
+  precision       1.7746   1.7746   1.7746
+
+wine
+  mean             0.028   0.0767   0.0584
+  std. dev.       0.3134   0.5044    0.476
+  weight sum       10806    22341     6853
+  precision       1.2009   1.2009   1.2009
+
+wonder
+  mean            0.0487   0.1238   0.0583
+  std. dev.       0.4103   0.6492   0.4485
+  weight sum       10806    22341     6853
+  precision       1.7533   1.7533   1.7533
+
+world
+  mean             0.019   0.0391   0.0208
+  std. dev.       0.4328   0.4328   0.4328
+  weight sum       10806    22341     6853
+  precision        2.597    2.597    2.597
+
+yum
+  mean            0.0041   0.0534   0.0336
+  std. dev.       0.3342   0.4872   0.3868
+  weight sum       10806    22341     6853
+  precision       2.0052   2.0052   2.0052
+
+yummi
+  mean            0.0097    0.085   0.0556
+  std. dev.       0.2737   0.5325   0.4347
+  weight sum       10806    22341     6853
+  precision       1.6424   1.6424   1.6424
+
+alright
+  mean            0.0217   0.0078   0.0564
+  std. dev.       0.5365   0.5365   0.5365
+  weight sum       10806    22341     6853
+  precision       3.2192   3.2192   3.2192
+
+asian
+  mean            0.0414   0.0527   0.0789
+  std. dev.       0.4633   0.5231    0.641
+  weight sum       10806    22341     6853
+  precision       2.3911   2.3911   2.3911
+
+broth
+  mean            0.0208   0.0336   0.0646
+  std. dev.       0.3223    0.396   0.5424
+  weight sum       10806    22341     6853
+  precision       1.9336   1.9336   1.9336
+
+bun
+  mean            0.0422   0.0541   0.0987
+  std. dev.       0.4756   0.5458   0.7413
+  weight sum       10806    22341     6853
+  precision        2.399    2.399    2.399
+
+cafe
+  mean            0.0285   0.0562   0.0796
+  std. dev.       0.4005   0.5514    0.659
+  weight sum       10806    22341     6853
+  precision       2.4028   2.4028   2.4028
+
+combo
+  mean            0.0331   0.0617   0.0913
+  std. dev.       0.4513   0.5773   0.7041
+  weight sum       10806    22341     6853
+  precision       2.7081   2.7081   2.7081
+
+corn
+  mean            0.0282   0.0609   0.0891
+  std. dev.       0.4541    0.577   0.7003
+  weight sum       10806    22341     6853
+  precision       2.7246   2.7246   2.7246
+
+dim
+  mean            0.0174   0.0214   0.0628
+  std. dev.        0.329   0.3396   0.5737
+  weight sum       10806    22341     6853
+  precision       1.9737   1.9737   1.9737
+
+fair
+  mean            0.0409    0.062   0.0925
+  std. dev.       0.4679    0.575   0.7023
+  weight sum       10806    22341     6853
+  precision       2.6961   2.6961   2.6961
+
+fruit
+  mean            0.0285   0.0537   0.0828
+  std. dev.       0.3972   0.5259   0.6701
+  weight sum       10806    22341     6853
+  precision       2.3835   2.3835   2.3835
+
+grab
+  mean            0.0408   0.0632   0.0788
+  std. dev.       0.4455   0.5557   0.6065
+  weight sum       10806    22341     6853
+  precision        2.358    2.358    2.358
+
+hungri
+  mean            0.0612   0.0596   0.0934
+  std. dev.       0.5703   0.5636   0.7023
+  weight sum       10806    22341     6853
+  precision       2.6883   2.6883   2.6883
+
+kinda
+  mean            0.0416   0.0464   0.0985
+  std. dev.       0.4704   0.4945    0.717
+  weight sum       10806    22341     6853
+  precision       2.6582   2.6582   2.6582
+
+korean
+  mean            0.0164   0.0373   0.0667
+  std. dev.       0.3272   0.4318   0.5929
+  weight sum       10806    22341     6853
+  precision       1.9632   1.9632   1.9632
+
+limit
+  mean            0.0476   0.0499   0.0816
+  std. dev.       0.4822   0.4909   0.6272
+  weight sum       10806    22341     6853
+  precision        2.351    2.351    2.351
+
+mall
+  mean            0.0269   0.0443   0.0594
+  std. dev.       0.3701   0.4626   0.5695
+  weight sum       10806    22341     6853
+  precision       2.0361   2.0361   2.0361
+
+medium
+  mean            0.0507   0.0481   0.1009
+  std. dev.       0.5074   0.4905   0.7162
+  weight sum       10806    22341     6853
+  precision       2.2811   2.2811   2.2811
+
+mushroom
+  mean             0.042    0.065   0.0785
+  std. dev.       0.4799   0.5891   0.6512
+  weight sum       10806    22341     6853
+  precision       2.6883   2.6883   2.6883
+
+near
+  mean            0.0591   0.0742   0.0901
+  std. dev.       0.5629   0.6311   0.6927
+  weight sum       10806    22341     6853
+  precision       2.7081   2.7081   2.7081
+
+note
+  mean             0.046   0.0558    0.078
+  std. dev.       0.4772   0.5163   0.6064
+  weight sum       10806    22341     6853
+  precision       2.3651   2.3651   2.3651
+
+prefer
+  mean            0.0167   0.0326   0.0636
+  std. dev.       0.4248   0.4248   0.4248
+  weight sum       10806    22341     6853
+  precision       2.5486   2.5486   2.5486
+
+salt
+  mean            0.0545   0.0435   0.0751
+  std. dev.        0.532   0.4729   0.6313
+  weight sum       10806    22341     6853
+  precision       2.4148   2.4148   2.4148
+
+sausag
+  mean            0.0289   0.0526   0.0687
+  std. dev.       0.3774      0.5   0.5704
+  weight sum       10806    22341     6853
+  precision         2.14     2.14     2.14
+
+slightli
+  mean            0.0289   0.0518   0.1004
+  std. dev.       0.4412    0.522   0.7223
+  weight sum       10806    22341     6853
+  precision       2.6474   2.6474   2.6474
+
+solid
+  mean            0.0157   0.0669   0.1015
+  std. dev.       0.4406   0.5916   0.7275
+  weight sum       10806    22341     6853
+  precision       2.6439   2.6439   2.6439
+
+standard
+  mean            0.0529   0.0486   0.1129
+  std. dev.       0.4992   0.4693   0.7131
+  weight sum       10806    22341     6853
+  precision       2.1972   2.1972   2.1972
+
+sum
+  mean            0.0289   0.0218   0.0637
+  std. dev.       0.3767   0.3408    0.583
+  weight sum       10806    22341     6853
+  precision       1.9737   1.9737   1.9737
+
+tomato
+  mean            0.0449   0.0532   0.0726
+  std. dev.       0.4686   0.4919   0.5632
+  weight sum       10806    22341     6853
+  precision       2.1001   2.1001   2.1001
+
+typic
+  mean            0.0221   0.0433   0.0724
+  std. dev.       0.5108   0.5108   0.5108
+  weight sum       10806    22341     6853
+  precision       3.0648   3.0648   3.0648
+
+waffl
+  mean            0.0262   0.0425    0.061
+  std. dev.       0.4169   0.4919   0.6328
+  weight sum       10806    22341     6853
+  precision       1.8653   1.8653   1.8653
+
+
+
+Time taken to build model: 10.71 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances       23545               58.8625 %
+Incorrectly Classified Instances     16455               41.1375 %
+Kappa statistic                          0.3719
+Mean absolute error                      0.2743
+Root mean squared error                  0.5161
+Relative absolute error                 70.2429 %
+Root relative squared error            116.8106 %
+Total Number of Instances            40000     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.645    0.155    0.607      0.645    0.625      0.481    0.793     0.602     negative
+                 0.561    0.141    0.834      0.561    0.671      0.431    0.784     0.812     positive
+                 0.591    0.285    0.300      0.591    0.398      0.243    0.691     0.283     neutral
+Weighted Avg.    0.589    0.169    0.681      0.589    0.612      0.412    0.771     0.665     
+
+=== Confusion Matrix ===
+
+     a     b     c   <-- classified as
+  6969  1071  2766 |     a = negative
+  3119 12529  6693 |     b = positive
+  1392  1414  4047 |     c = neutral
+
